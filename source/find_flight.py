@@ -26,7 +26,6 @@ def search_flights(search:str):
     wait.until(EC.presence_of_element_located((By.XPATH, '//li')))
     time.sleep(10)
     flight_table = driver.find_elements(by=By.XPATH, value='//li')
-    print(len(flight_table))
     dataset = pd.DataFrame(columns=['airline', 'price', 'duration', 'stops', 'departure', 'arrival','returns','datetime'])
     date = datetime.datetime.now().isoformat()
     for flight in flight_table: 
@@ -49,7 +48,6 @@ def search_flights(search:str):
                 except Exception as e:
                     print(str(e))
                     print(aux)
-    print(dataset)
     # Cerrar el navegador
     driver.quit()
     return dataset
