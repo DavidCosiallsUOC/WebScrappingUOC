@@ -1,0 +1,980 @@
+airline,price,duration,stops,departure,arrival,returns,datetime
+Ryanair,65 €,1 h 15 min,Directo,22:30,23:45,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,84 €,1 h 15 min,Directo,18:40,19:55,ida y vuelta,2023-04-22T21:29:58.173197
+Air Europa,107 €,1 h 15 min,Directo,20:00,21:15,ida y vuelta,2023-04-22T21:29:58.173197
+Iberia Express,131 €,1 h 10 min,Directo,19:55,21:05,ida y vuelta,2023-04-22T21:29:58.173197
+Ryanair,99 €,1 h 15 min,Directo,11:00,12:15,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,106 €,1 h 15 min,Directo,17:35,18:50,ida y vuelta,2023-04-22T21:29:58.173197
+Iberia Express,137 €,1 h 15 min,Directo,15:45,17:00,ida y vuelta,2023-04-22T21:29:58.173197
+IberiaOperado por Iberia Express,137 €,1 h 10 min,Directo,19:55,21:05,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,145 €,1 h 15 min,Directo,9:10,10:25,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,146 €,5 h 10 min,1 escala,13:50,19:00,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,146 €,6 h 25 min,1 escala,13:50,20:15,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,146 €,8 h 5 min,1 escala,13:50,21:55,ida y vuelta,2023-04-22T21:29:58.173197
+IberiaOperado por Iberia Express,146 €,1 h 15 min,Directo,15:45,17:00,ida y vuelta,2023-04-22T21:29:58.173197
+Iberia Express,151 €,1 h 15 min,Directo,7:25,8:40,ida y vuelta,2023-04-22T21:29:58.173197
+Air Europa,159 €,1 h 15 min,Directo,8:15,9:30,ida y vuelta,2023-04-22T21:29:58.173197
+Air Europa,159 €,1 h 15 min,Directo,12:50,14:05,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,161 €,5 h 35 min,1 escala,13:50,19:25,ida y vuelta,2023-04-22T21:29:58.173197
+IberiaOperado por Iberia Express,172 €,1 h 15 min,Directo,7:25,8:40,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",185 €,11 h,1 escala,23:00,10:00+1,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",188 €,26 h 5 min,1 escala,7:55,10:00+1,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,191 €,4 h 25 min,1 escala,13:50,18:15,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,207 €,9 h 40 min,1 escala,22:35,8:15+1,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",210 €,23 h 40 min,1 escala,23:00,22:40+1,ida y vuelta,2023-04-22T21:29:58.173197
+Iberia Express,211 €,1 h 15 min,Directo,11:25,12:40,ida y vuelta,2023-04-22T21:29:58.173197
+IberiaOperado por Iberia Express,221 €,1 h 15 min,Directo,11:25,12:40,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,236 €,10 h 30 min,1 escala,22:35,9:05+1,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,236 €,11 h 15 min,1 escala,22:35,9:50+1,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,236 €,11 h 30 min,1 escala,22:35,10:05+1,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",237 €,3 h 20 min,1 escala,15:40,19:00,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",237 €,4 h 30 min,1 escala,15:40,20:10,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",237 €,6 h 15 min,1 escala,15:40,21:55,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",237 €,6 h 40 min,1 escala,15:40,22:20,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",238 €,15 h 55 min,1 escala,15:40,7:35+1,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Air Nostrum for Iberia",255 €,5 h 25 min,2 escalas,7:55,13:20,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Air Nostrum for Iberia",255 €,8 h 15 min,2 escalas,7:55,16:10,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Air Nostrum for Iberia",255 €,9 h 25 min,2 escalas,7:55,17:20,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",260 €,3 h 10 min,1 escala,14:10,17:20,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",287 €,4 h 35 min,1 escala,7:10,11:45,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",287 €,6 h 10 min,1 escala,7:10,13:20,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",287 €,3 h 50 min,1 escala,9:30,13:20,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",287 €,6 h 40 min,1 escala,9:30,16:10,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",287 €,4 h 50 min,1 escala,11:20,16:10,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",287 €,6 h,1 escala,11:20,17:20,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",287 €,2 h 45 min,1 escala,19:35,22:20,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",287 €,12 h,1 escala,19:35,7:35+1,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",287 €,13 h 35 min,1 escala,19:35,9:10+1,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",288 €,16 h 15 min,1 escala,19:35,11:50+1,ida y vuelta,2023-04-22T21:29:58.173197
+"Air Europa,Swiftair",470 €,13 h 40 min,1 escala,8:20,22:00,ida y vuelta,2023-04-22T21:29:58.173197
+"Air Europa,Swiftair",482 €,8 h 55 min,1 escala,10:15,19:10,ida y vuelta,2023-04-22T21:29:58.173197
+"Air Europa,Swiftair",507 €,10 h 50 min,1 escala,8:20,19:10,ida y vuelta,2023-04-22T21:29:58.173197
+"Air Europa,Swiftair",507 €,11 h 45 min,1 escala,10:15,22:00,ida y vuelta,2023-04-22T21:29:58.173197
+"Air Europa,Swiftair",507 €,4 h 35 min,1 escala,14:35,19:10,ida y vuelta,2023-04-22T21:29:58.173197
+"Air Europa,Swiftair",507 €,4 h 55 min,1 escala,17:05,22:00,ida y vuelta,2023-04-22T21:29:58.173197
+"Air Europa,Swiftair",507 €,3 h,1 escala,19:00,22:00,ida y vuelta,2023-04-22T21:29:58.173197
+"Air Europa,Swiftair",522 €,7 h 25 min,1 escala,14:35,22:00,ida y vuelta,2023-04-22T21:29:58.173197
+Tap Air Portugal,639 €,19 h 55 min,1 escala,17:55,13:50+1,ida y vuelta,2023-04-22T21:29:58.173197
+Tap Air PortugalOperado por Portugalia Airlines,639 €,17 h 40 min,1 escala,20:10,13:50+1,ida y vuelta,2023-04-22T21:29:58.173197
+Tap Air Portugal,639 €,15 h 35 min,1 escala,22:15,13:50+1,ida y vuelta,2023-04-22T21:29:58.173197
+Tap Air PortugalOperado por Bulgaria Air,690 €,26 h 45 min,1 escala,11:05,13:50+1,ida y vuelta,2023-04-22T21:29:58.173197
+Tap Air Portugal,741 €,24 h 15 min,1 escala,13:35,13:50+1,ida y vuelta,2023-04-22T21:29:58.173197
+Tap Air Portugal,741 €,21 h 30 min,1 escala,16:20,13:50+1,ida y vuelta,2023-04-22T21:29:58.173197
+British Airways,793 €,13 h 30 min,1 escala,20:45,10:15+1,ida y vuelta,2023-04-22T21:29:58.173197
+Tap Air Portugal,808 €,6 h 30 min,1 escala,7:40,14:10,ida y vuelta,2023-04-22T21:29:58.173197
+"Iberia,British Airways",914 €,11 h 35 min,1 escala,7:00,18:35,ida y vuelta,2023-04-22T21:29:58.173197
+"Iberia,British Airways",914 €,10 h 35 min,1 escala,8:00,18:35,ida y vuelta,2023-04-22T21:29:58.173197
+British AirwaysOperado por Finnair for British Airways,914 €,7 h 35 min,1 escala,11:00,18:35,ida y vuelta,2023-04-22T21:29:58.173197
+"Iberia,British AirwaysOperado por Iberia Express for Iberia",1.013 €,9 h 20 min,1 escala,8:45,18:05,ida y vuelta,2023-04-22T21:29:58.173197
+British Airways,1.045 €,6 h 25 min,1 escala,12:10,18:35,ida y vuelta,2023-04-22T21:29:58.173197
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",1.392 €,30 h 40 min,1 escala,16:00,22:40+1,ida y vuelta,2023-04-22T21:29:58.173197
+VuelingIberia,50 €,1 h 20 min,Directo,9:30,10:50,ida y vuelta,2023-04-22T21:30:32.804734
+Billetes separados que se han reservado juntos,67 €,Air Europa,MAD–BCN,7:30,8:55,ida y vuelta,2023-04-22T21:30:32.804734
+VuelingIberia,55 €,1 h 20 min,Directo,13:40,15:00,ida y vuelta,2023-04-22T21:30:32.804734
+VuelingIberia,55 €,1 h 20 min,Directo,18:30,19:50,ida y vuelta,2023-04-22T21:30:32.804734
+VuelingIberia,55 €,1 h 20 min,Directo,22:35,23:55,ida y vuelta,2023-04-22T21:30:32.804734
+Air Europa,100 €,12 h 50 min,1 escala,8:20,21:10,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,104 €,1 h 20 min,Directo,21:35,22:55,ida y vuelta,2023-04-22T21:30:32.804734
+Air Europa,117 €,5 h 50 min,2 escalas,15:20,21:10,ida y vuelta,2023-04-22T21:30:32.804734
+Air Europa,120 €,9 h 35 min,1 escala,8:20,17:55,ida y vuelta,2023-04-22T21:30:32.804734
+Air Europa,120 €,7 h 40 min,1 escala,10:15,17:55,ida y vuelta,2023-04-22T21:30:32.804734
+Air Europa,120 €,10 h 55 min,1 escala,10:15,21:10,ida y vuelta,2023-04-22T21:30:32.804734
+Air Europa,120 €,4 h 5 min,1 escala,17:05,21:10,ida y vuelta,2023-04-22T21:30:32.804734
+Air Europa,120 €,10 h 10 min,1 escala,21:45,7:55+1,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,125 €,1 h 20 min,Directo,8:30,9:50,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,129 €,1 h 20 min,Directo,12:25,13:45,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,129 €,1 h 20 min,Directo,16:00,17:20,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,132 €,1 h 20 min,Directo,8:00,9:20,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,139 €,1 h 20 min,Directo,18:00,19:20,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,139 €,1 h 20 min,Directo,20:00,21:20,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,145 €,1 h 20 min,Directo,11:30,12:50,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,145 €,1 h 20 min,Directo,17:30,18:50,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,145 €,1 h 20 min,Directo,19:00,20:20,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,151 €,1 h 20 min,Directo,7:30,8:50,ida y vuelta,2023-04-22T21:30:32.804734
+Air EuropaOperado por Air Europa Express,153 €,6 h 35 min,1 escala,14:35,21:10,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,158 €,1 h 20 min,Directo,16:30,17:50,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,164 €,1 h 20 min,Directo,14:50,16:10,ida y vuelta,2023-04-22T21:30:32.804734
+Air Europa,168 €,2 h 45 min,1 escala,8:20,11:05,ida y vuelta,2023-04-22T21:30:32.804734
+Air EuropaOperado por Air Europa Express,168 €,3 h 20 min,1 escala,14:35,17:55,ida y vuelta,2023-04-22T21:30:32.804734
+Iberia,177 €,1 h 20 min,Directo,7:00,8:20,ida y vuelta,2023-04-22T21:30:32.804734
+Air EuropaOperado por Air Europa Express,196 €,12 h 55 min,1 escala,19:00,7:55+1,ida y vuelta,2023-04-22T21:30:32.804734
+Billetes separados que se han reservado juntos,207 €,easyJet,MAD–BCN,23:20,16:30+1,ida y vuelta,2023-04-22T21:30:32.804734
+Billetes separados que se han reservado juntos,216 €,easyJet,MAD–BCN,16:10,16:30+1,ida y vuelta,2023-04-22T21:30:32.804734
+Air Europa,228 €,1 h 25 min,Directo,15:10,16:35,ida y vuelta,2023-04-22T21:30:32.804734
+"Air EuropaOperado por Air Europa Express,Air Europa Express",268 €,6 h,2 escalas,15:10,21:10,ida y vuelta,2023-04-22T21:30:32.804734
+Air Europa,311 €,13 h 20 min,1 escala,21:45,11:05+1,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Bulgaria Air,318 €,9 h 10 min,1 escala,16:20,1:30+1,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air Portugal,320 €,5 h 20 min,1 escala,20:10,1:30+1,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air Portugal,350 €,9 h 15 min,1 escala,7:40,16:55,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air Portugal,350 €,17 h 50 min,1 escala,7:40,1:30+1,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air Portugal,350 €,7 h 35 min,1 escala,17:55,1:30+1,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Bulgaria Air,352 €,5 h 50 min,1 escala,11:05,16:55,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Bulgaria Air,352 €,14 h 25 min,1 escala,11:05,1:30+1,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air Portugal,449 €,11 h 55 min,1 escala,13:35,1:30+1,ida y vuelta,2023-04-22T21:30:32.804734
+"Tap Air PortugalOperado por Bulgaria Air,Bulgaria Air",515 €,5 h 30 min,1 escala,16:20,21:50,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Bulgaria Air,515 €,3 h 55 min,1 escala,17:55,21:50,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Portugalia Airlines,515 €,20 h 45 min,1 escala,20:10,16:55+1,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Portugalia Airlines,515 €,18 h 40 min,1 escala,22:15,16:55+1,ida y vuelta,2023-04-22T21:30:32.804734
+"Iberia,British Airways",562 €,10 h 15 min,1 escala,8:00,18:15,ida y vuelta,2023-04-22T21:30:32.804734
+"Iberia,British Airways",583 €,7 h 35 min,1 escala,14:55,22:30,ida y vuelta,2023-04-22T21:30:32.804734
+"Iberia,British Airways",588 €,9 h 5 min,1 escala,9:10,18:15,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Portugalia Airlines,597 €,5 h 45 min,1 escala,13:35,19:20,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Bulgaria Air,597 €,8 h 15 min,1 escala,13:35,21:50,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Portugalia Airlines,597 €,20 h 15 min,1 escala,17:55,14:10+1,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Portugalia Airlines,597 €,18 h,1 escala,20:10,14:10+1,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Portugalia Airlines,597 €,15 h 55 min,1 escala,22:15,14:10+1,ida y vuelta,2023-04-22T21:30:32.804734
+"Iberia,British Airways",605 €,7 h 45 min,1 escala,8:00,15:45,ida y vuelta,2023-04-22T21:30:32.804734
+"Iberia,British Airways",631 €,8 h 45 min,1 escala,7:00,15:45,ida y vuelta,2023-04-22T21:30:32.804734
+"Iberia,British Airways",631 €,6 h 35 min,1 escala,9:10,15:45,ida y vuelta,2023-04-22T21:30:32.804734
+British Airways,631 €,12 h 40 min,1 escala,20:45,9:25+1,ida y vuelta,2023-04-22T21:30:32.804734
+British Airways,650 €,9 h 40 min,1 escala,10:30,20:10,ida y vuelta,2023-04-22T21:30:32.804734
+British AirwaysIberia,651 €,7 h 45 min,1 escala,10:30,18:15,ida y vuelta,2023-04-22T21:30:32.804734
+British Airways,672 €,12 h,1 escala,10:30,22:30,ida y vuelta,2023-04-22T21:30:32.804734
+"Iberia,British Airways",672 €,6 h 45 min,1 escala,15:45,22:30,ida y vuelta,2023-04-22T21:30:32.804734
+Tap Air PortugalOperado por Portugalia Airlines,892 €,6 h 30 min,1 escala,7:40,14:10,ida y vuelta,2023-04-22T21:30:32.804734
+Brussels Airlines,4.559 €,7 h 50 min,1 escala,12:40,20:30,ida y vuelta,2023-04-22T21:30:32.804734
+Lufthansa,4.796 €,5 h 35 min,1 escala,7:15,12:50,ida y vuelta,2023-04-22T21:30:32.804734
+Lufthansa,4.796 €,5 h 50 min,1 escala,11:55,17:45,ida y vuelta,2023-04-22T21:30:32.804734
+Lufthansa,4.796 €,6 h 5 min,1 escala,15:25,21:30,ida y vuelta,2023-04-22T21:30:32.804734
+Air FranceOperado por DOT LT,Precio no disponible,5 h 30 min,1 escala,6:10,11:40,No disponible,2023-04-22T21:30:32.804734
+Air France,Precio no disponible,4 h 50 min,1 escala,12:20,17:10,No disponible,2023-04-22T21:30:32.804734
+Air France,Precio no disponible,5 h 5 min,1 escala,17:50,22:55,No disponible,2023-04-22T21:30:32.804734
+IberiaOperado por Air Nostrum for Iberia,82 €,1 h 10 min,Directo,7:25,8:35,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,90 €,1 h 20 min,Directo,7:00,8:20,ida y vuelta,2023-04-22T21:31:08.108502
+IberiaOperado por Air Nostrum for Iberia,139 €,1 h 10 min,Directo,12:00,13:10,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,177 €,3 h 25 min,1 escala,8:20,11:45,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,191 €,1 h 20 min,Directo,15:10,16:30,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,192 €,9 h 50 min,1 escala,13:40,23:30,ida y vuelta,2023-04-22T21:31:08.108502
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia,Air Nostrum for Iberia",195 €,6 h 25 min,2 escalas,7:05,13:30,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,197 €,11 h 40 min,1 escala,22:35,10:15+1,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,202 €,5 h,1 escala,18:30,23:30,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,212 €,9 h 15 min,2 escalas,10:45,20:00,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,212 €,33 h 15 min,2 escalas,10:45,20:00+1,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,222 €,11 h 40 min,1 escala,8:20,20:00,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,222 €,14 h,1 escala,9:30,23:30,ida y vuelta,2023-04-22T21:31:08.108502
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",230 €,6 h 5 min,1 escala,7:25,13:30,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,232 €,6 h 25 min,1 escala,9:30,15:55,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,232 €,6 h 40 min,1 escala,13:40,20:20,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,233 €,4 h 40 min,2 escalas,15:20,20:00,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,238 €,26 h 55 min,1 escala,17:05,20:00+1,ida y vuelta,2023-04-22T21:31:08.108502
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Air Nostrum for Iberia",243 €,5 h 35 min,2 escalas,7:55,13:30,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,247 €,9 h 45 min,1 escala,10:15,20:00,ida y vuelta,2023-04-22T21:31:08.108502
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",256 €,25 h 55 min,1 escala,11:35,13:30+1,ida y vuelta,2023-04-22T21:31:08.108502
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia,Air Nostrum for Iberia",260 €,14 h 50 min,2 escalas,22:40,13:30+1,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,262 €,10 h 50 min,1 escala,9:30,20:20,ida y vuelta,2023-04-22T21:31:08.108502
+Tap Air PortugalOperado por Bulgaria Air,264 €,14 h 35 min,1 escala,20:10,10:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+Tap Air PortugalOperado por Bulgaria Air,264 €,12 h 30 min,1 escala,22:15,10:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,269 €,12 h 30 min,2 escalas,7:30,20:00,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,269 €,28 h 40 min,2 escalas,15:20,20:00+1,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,276 €,22 h 15 min,1 escala,21:45,20:00+1,ida y vuelta,2023-04-22T21:31:08.108502
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia,Air Nostrum for Iberia",276 €,14 h 50 min,2 escalas,22:40,13:30+1,ida y vuelta,2023-04-22T21:31:08.108502
+Tap Air PortugalOperado por Bulgaria Air,286 €,23 h 40 min,1 escala,11:05,10:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+"Tap Air PortugalOperado por Bulgaria Air,Bulgaria Air",292 €,18 h 25 min,1 escala,16:20,10:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,293 €,25 h 30 min,1 escala,10:15,11:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,297 €,25 h,2 escalas,10:45,11:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,299 €,5 h 25 min,1 escala,14:35,20:00,ida y vuelta,2023-04-22T21:31:08.108502
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",312 €,17 h 35 min,1 escala,19:55,13:30+1,ida y vuelta,2023-04-22T21:31:08.108502
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia,Air Nostrum for Iberia",326 €,14 h 50 min,2 escalas,22:40,13:30+1,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,331 €,25 h,1 escala,19:00,20:00+1,ida y vuelta,2023-04-22T21:31:08.108502
+IberiaOperado por Air Nostrum for Iberia,340 €,1 h 10 min,Directo,15:55,17:05,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,341 €,12 h 30 min,2 escalas,7:30,20:00,ida y vuelta,2023-04-22T21:31:08.108502
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Air Nostrum for Iberia",363 €,14 h 30 min,2 escalas,23:00,13:30+1,ida y vuelta,2023-04-22T21:31:08.108502
+Tap Air PortugalOperado por Bulgaria Air,374 €,21 h 10 min,1 escala,13:35,10:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+Tap Air PortugalOperado por Bulgaria Air,394 €,16 h 50 min,1 escala,17:55,10:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia,Air Nostrum for Iberia",394 €,17 h 50 min,2 escalas,19:40,13:30+1,ida y vuelta,2023-04-22T21:31:08.108502
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia,Air Nostrum for Iberia",394 €,17 h 50 min,2 escalas,19:40,13:30+1,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,419 €,14 h,1 escala,21:45,11:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,423 €,21 h 10 min,1 escala,14:35,11:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,423 €,18 h 40 min,1 escala,17:05,11:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+Air EuropaOperado por Air Europa Express,423 €,16 h 45 min,1 escala,19:00,11:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",450 €,8 h,2 escalas,7:55,15:55,ida y vuelta,2023-04-22T21:31:08.108502
+Aer Lingus,585 €,12 h 35 min,1 escala,10:40,23:15,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,643 €,20 h 35 min,1 escala,13:40,10:15+1,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,648 €,17 h 20 min,1 escala,22:35,15:55+1,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,655 €,15 h 45 min,1 escala,18:30,10:15+1,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,665 €,21 h 25 min,1 escala,18:30,15:55+1,ida y vuelta,2023-04-22T21:31:08.108502
+VuelingIberia,682 €,21 h 45 min,1 escala,22:35,20:20+1,ida y vuelta,2023-04-22T21:31:08.108502
+Lufthansa,1.569 €,23 h 35 min,1 escala,17:10,16:45+1,ida y vuelta,2023-04-22T21:31:08.108502
+Ryanair,40 €,1 h 25 min,Directo,6:55,8:20,ida y vuelta,2023-04-22T21:31:40.270727
+Ryanair,40 €,1 h 25 min,Directo,12:55,14:20,ida y vuelta,2023-04-22T21:31:40.270727
+Ryanair,40 €,1 h 20 min,Directo,15:20,16:40,ida y vuelta,2023-04-22T21:31:40.270727
+Iberia ExpressIberia,72 €,1 h 25 min,Directo,7:05,8:30,ida y vuelta,2023-04-22T21:31:40.270727
+Ryanair,52 €,1 h 25 min,Directo,8:35,10:00,ida y vuelta,2023-04-22T21:31:40.270727
+RyanairOperado por Lauda Europe,52 €,1 h 25 min,Directo,9:30,10:55,ida y vuelta,2023-04-22T21:31:40.270727
+Iberia ExpressIberia,94 €,1 h 19 min,Directo,22:40,23:59,ida y vuelta,2023-04-22T21:31:40.270727
+Iberia ExpressIberia,109 €,1 h 25 min,Directo,9:30,10:55,ida y vuelta,2023-04-22T21:31:40.270727
+Billetes separados que se han reservado juntos,109 €,"Air Europa,Vueling",MAD–PMI,10:45,15:55,ida y vuelta,2023-04-22T21:31:40.270727
+Air Europa,120 €,1 h 20 min,Directo,8:20,9:40,ida y vuelta,2023-04-22T21:31:40.270727
+Air Europa,120 €,1 h 20 min,Directo,21:45,23:05,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",131 €,3 h 30 min,1 escala,7:55,11:25,ida y vuelta,2023-04-22T21:31:40.270727
+Air Europa,139 €,1 h 20 min,Directo,10:15,11:35,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",141 €,10 h,1 escala,7:55,17:55,ida y vuelta,2023-04-22T21:31:40.270727
+Billetes separados que se han reservado juntos,142 €,"Air Europa,Vueling",MAD–PMI,10:35,15:05,ida y vuelta,2023-04-22T21:31:40.270727
+"Air EuropaOperado por Air Europa Express,Air Europa Express",153 €,2 h 55 min,1 escala,7:00,9:55,ida y vuelta,2023-04-22T21:31:40.270727
+Iberia Express,155 €,1 h 25 min,Directo,11:25,12:50,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Air Nostrum for Iberia",155 €,6 h 50 min,2 escalas,7:55,14:45,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Air Nostrum for Iberia",155 €,8 h 40 min,2 escalas,7:55,16:35,ida y vuelta,2023-04-22T21:31:40.270727
+Air EuropaOperado por Air Europa Express,155 €,7 h 15 min,1 escala,10:45,18:00,ida y vuelta,2023-04-22T21:31:40.270727
+Air Europa,165 €,1 h 20 min,Directo,17:05,18:25,ida y vuelta,2023-04-22T21:31:40.270727
+Air Europa,165 €,2 h 40 min,1 escala,15:20,18:00,ida y vuelta,2023-04-22T21:31:40.270727
+IberiaOperado por Iberia Express,169 €,1 h 25 min,Directo,11:25,12:50,ida y vuelta,2023-04-22T21:31:40.270727
+Air Europa,190 €,1 h 20 min,Directo,19:00,20:20,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",190 €,12 h 25 min,1 escala,23:00,11:25+1,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",193 €,4 h 25 min,1 escala,18:15,22:40,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",193 €,4 h 45 min,1 escala,18:15,23:00,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",193 €,13 h 35 min,1 escala,18:15,7:50+1,ida y vuelta,2023-04-22T21:31:40.270727
+Iberia Express,193 €,1 h 25 min,Directo,15:40,17:05,ida y vuelta,2023-04-22T21:31:40.270727
+Iberia Express,193 €,1 h 20 min,Directo,19:40,21:00,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",193 €,14 h 55 min,1 escala,18:15,9:10+1,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",194 €,16 h 45 min,1 escala,23:00,15:45+1,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",202 €,19 h 25 min,1 escala,16:00,11:25+1,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",202 €,23 h 45 min,1 escala,16:00,15:45+1,ida y vuelta,2023-04-22T21:31:40.270727
+Air Europa,205 €,1 h 20 min,Directo,14:35,15:55,ida y vuelta,2023-04-22T21:31:40.270727
+IberiaOperado por Iberia Express,209 €,1 h 25 min,Directo,15:40,17:05,ida y vuelta,2023-04-22T21:31:40.270727
+IberiaOperado por Iberia Express,209 €,1 h 20 min,Directo,19:40,21:00,ida y vuelta,2023-04-22T21:31:40.270727
+Air Europa,215 €,15 h 15 min,1 escala,7:30,22:45,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",229 €,15 h 10 min,1 escala,20:15,11:25+1,ida y vuelta,2023-04-22T21:31:40.270727
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",229 €,19 h 30 min,1 escala,20:15,15:45+1,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,239 €,9 h 20 min,1 escala,22:35,7:55+1,ida y vuelta,2023-04-22T21:31:40.270727
+VuelingIberia,249 €,8 h 50 min,1 escala,22:35,7:25+1,ida y vuelta,2023-04-22T21:31:40.270727
+"Air EuropaOperado por Air Europa Express,Air Europa Express",251 €,11 h 5 min,1 escala,7:00,18:05,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,259 €,10 h 50 min,1 escala,22:35,9:25+1,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,269 €,9 h 50 min,1 escala,13:40,23:30,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,279 €,14 h,1 escala,9:30,23:30,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,279 €,13 h 25 min,1 escala,18:30,7:55+1,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,289 €,5 h,1 escala,18:30,23:30,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,289 €,12 h 55 min,1 escala,18:30,7:25+1,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,299 €,7 h 50 min,1 escala,13:40,21:30,ida y vuelta,2023-04-22T21:31:40.270727
+Tap Air Portugal,306 €,38 h 10 min,1 escala,22:15,12:25+2,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,309 €,12 h,1 escala,9:30,21:30,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,309 €,11 h 30 min,1 escala,22:35,10:05+1,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,329 €,3 h,1 escala,18:30,21:30,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,344 €,5 h 20 min,1 escala,13:40,19:00,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,344 €,14 h,1 escala,22:35,12:35+1,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,354 €,9 h 30 min,1 escala,9:30,19:00,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,364 €,4 h 25 min,1 escala,13:40,18:05,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,374 €,8 h 35 min,1 escala,9:30,18:05,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,384 €,3 h 20 min,1 escala,13:40,17:00,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,394 €,7 h 30 min,1 escala,9:30,17:00,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,404 €,3 h 5 min,1 escala,9:30,12:35,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,414 €,8 h 40 min,1 escala,13:40,22:20,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,424 €,6 h,1 escala,9:30,15:30,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,424 €,12 h 50 min,1 escala,9:30,22:20,ida y vuelta,2023-04-22T21:31:40.270727
+Vueling,434 €,3 h 50 min,1 escala,18:30,22:20,ida y vuelta,2023-04-22T21:31:40.270727
+Billetes separados que se han reservado juntos,532 €,Transavia,MAD–PMI,6:00,15:55,ida y vuelta,2023-04-22T21:31:40.270727
+Billetes separados que se han reservado juntos,608 €,Transavia,MAD–PMI,6:00,22:45,ida y vuelta,2023-04-22T21:31:40.270727
+Billetes separados que se han reservado juntos,650 €,Transavia,MAD–PMI,20:40,18:00+1,ida y vuelta,2023-04-22T21:31:40.270727
+Billetes separados que se han reservado juntos,650 €,Transavia,MAD–PMI,20:40,22:45+1,ida y vuelta,2023-04-22T21:31:40.270727
+Billetes separados que se han reservado juntos,667 €,Transavia,MAD–PMI,12:45,22:45,ida y vuelta,2023-04-22T21:31:40.270727
+Billetes separados que se han reservado juntos,671 €,Transavia,MAD–PMI,12:45,11:40+1,ida y vuelta,2023-04-22T21:31:40.270727
+Billetes separados que se han reservado juntos,671 €,Transavia,MAD–PMI,20:40,11:40+1,ida y vuelta,2023-04-22T21:31:40.270727
+British Airways,1.175 €,7 h 25 min,1 escala,12:10,19:35,ida y vuelta,2023-04-22T21:31:40.270727
+British Airways,1.196 €,9 h 5 min,1 escala,10:30,19:35,ida y vuelta,2023-04-22T21:31:40.270727
+British AirwaysOperado por BA Cityflyer,1.285 €,13 h 30 min,1 escala,20:45,10:15+1,ida y vuelta,2023-04-22T21:31:40.270727
+British AirwaysOperado por BA Cityflyer,1.337 €,16 h 55 min,1 escala,17:20,10:15+1,ida y vuelta,2023-04-22T21:31:40.270727
+"British AirwaysOperado por Finnair for British Airways,BA Cityflyer",1.402 €,14 h 25 min,1 escala,19:50,10:15+1,ida y vuelta,2023-04-22T21:31:40.270727
+"Lufthansa,Eurowings Discover",5.453 €,6 h 15 min,1 escala,6:10,12:25,ida y vuelta,2023-04-22T21:31:40.270727
+LufthansaOperado por Eurowings Discover,5.453 €,5 h 25 min,1 escala,11:55,17:20,ida y vuelta,2023-04-22T21:31:40.270727
+Ryanair,50 €,2 h 45 min,Directo,8:10,9:55,ida y vuelta,2023-04-22T21:32:19.319324
+Ryanair,65 €,2 h 45 min,Directo,22:00,23:45,ida y vuelta,2023-04-22T21:32:19.319324
+Iberia ExpressIberia,80 €,2 h 40 min,Directo,21:50,23:30,ida y vuelta,2023-04-22T21:32:19.319324
+Iberia ExpressIberia,132 €,2 h 45 min,Directo,11:25,13:10,ida y vuelta,2023-04-22T21:32:19.319324
+Billetes separados que se han reservado juntos,193 €,Iberia,MAD–ACE,11:25,13:10,ida y vuelta,2023-04-22T21:32:19.319324
+Billetes separados que se han reservado juntos,119 €,Vueling,MAD–ACE,18:30,0:30+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,Binter CanariasOperado por Iberia Express",165 €,10 h 5 min,1 escala,7:30,16:35,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,Binter CanariasOperado por Iberia Express",166 €,19 h 35 min,1 escala,22:00,16:35+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,Binter CanariasOperado por Iberia Express",168 €,18 h 50 min,2 escalas,22:45,16:35+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,Binter CanariasOperado por Iberia Express",169 €,18 h 50 min,2 escalas,22:45,16:35+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,Binter CanariasOperado por Iberia Express",177 €,8 h 10 min,1 escala,9:25,16:35,ida y vuelta,2023-04-22T21:32:19.319324
+Billetes separados que se han reservado juntos,179 €,"Air Europa,canaryfly",MAD–ACE,15:05,18:55,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,Binter CanariasOperado por Iberia Express",183 €,5 h 40 min,1 escala,11:55,16:35,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,Binter CanariasOperado por Iberia Express",186 €,9 h 50 min,2 escalas,7:45,16:35,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,Binter CanariasOperado por Iberia Express",186 €,9 h 50 min,2 escalas,7:45,16:35,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,Binter CanariasOperado por Iberia Express",201 €,8 h 10 min,2 escalas,9:25,16:35,ida y vuelta,2023-04-22T21:32:19.319324
+VuelingIberia,202 €,11 h 50 min,1 escala,13:40,0:30+1,ida y vuelta,2023-04-22T21:32:19.319324
+VuelingIberia,232 €,16 h,1 escala,9:30,0:30+1,ida y vuelta,2023-04-22T21:32:19.319324
+VuelingIberia,247 €,16 h 20 min,1 escala,22:35,13:55+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",256 €,25 h 40 min,1 escala,7:05,7:45+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",256 €,26 h 40 min,1 escala,7:05,8:45+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",256 €,18 h 40 min,1 escala,15:05,8:45+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",270 €,22 h 40 min,1 escala,15:05,12:45+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",270 €,25 h 10 min,1 escala,15:05,15:15+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",295 €,26 h 45 min,1 escala,20:00,21:45+1,ida y vuelta,2023-04-22T21:32:19.319324
+VuelingIberia,297 €,5 h 25 min,1 escala,9:30,13:55,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",309 €,20 h 15 min,1 escala,20:00,15:15+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",309 €,25 h 15 min,1 escala,20:00,20:15+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",431 €,6 h 40 min,1 escala,7:05,12:45,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",431 €,9 h 10 min,1 escala,7:05,15:15,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",431 €,14 h 10 min,1 escala,7:05,20:15,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",431 €,15 h 40 min,1 escala,7:05,21:45,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",431 €,6 h 10 min,1 escala,15:05,20:15,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",431 €,7 h 40 min,1 escala,15:05,21:45,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",431 €,12 h 45 min,1 escala,20:00,7:45+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",431 €,13 h 45 min,1 escala,20:00,8:45+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",432 €,17 h 40 min,1 escala,15:05,7:45+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",476 €,11 h 5 min,2 escalas,11:40,21:45,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",488 €,12 h 50 min,1 escala,7:05,18:55,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,British Airways",489 €,13 h 30 min,1 escala,7:00,19:30,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,British Airways",489 €,12 h 30 min,1 escala,8:00,19:30,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",489 €,17 h 45 min,1 escala,20:00,12:45+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryflyOperado por Air Europa Express",497 €,6 h 30 min,1 escala,7:05,12:35,ida y vuelta,2023-04-22T21:32:19.319324
+Aer Lingus,504 €,9 h 15 min,1 escala,10:40,18:55,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,British AirwaysOperado por Iberia Express",509 €,11 h 45 min,1 escala,8:45,19:30,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,British AirwaysOperado por Iberia Express,BA Euroflyer",526 €,17 h 30 min,1 escala,18:40,11:10+1,ida y vuelta,2023-04-22T21:32:19.319324
+Aer Lingus,539 €,26 h 40 min,1 escala,10:40,12:20+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Iberia,British Airways",551 €,11 h 20 min,1 escala,9:10,19:30,ida y vuelta,2023-04-22T21:32:19.319324
+British AirwaysOperado por BA Euroflyer,600 €,15 h 25 min,1 escala,20:45,11:10+1,ida y vuelta,2023-04-22T21:32:19.319324
+"Air Europa,canaryfly",604 €,23 h 55 min,1 escala,20:00,18:55+1,ida y vuelta,2023-04-22T21:32:19.319324
+VuelingIberia,715 €,25 h 15 min,1 escala,13:40,13:55+1,ida y vuelta,2023-04-22T21:32:19.319324
+VuelingIberia,719 €,20 h 25 min,1 escala,18:30,13:55+1,ida y vuelta,2023-04-22T21:32:19.319324
+Air Europa,45 €,1 h,Directo,6:40,7:40,ida y vuelta,2023-04-22T21:32:47.025568
+Air Europa,45 €,1 h,Directo,11:00,12:00,ida y vuelta,2023-04-22T21:32:47.025568
+IberiaVueling,76 €,1 h,Directo,22:10,23:10,ida y vuelta,2023-04-22T21:32:47.025568
+Iberia,81 €,1 h,Directo,7:25,8:25,ida y vuelta,2023-04-22T21:32:47.025568
+Air Europa,82 €,1 h,Directo,15:00,16:00,ida y vuelta,2023-04-22T21:32:47.025568
+Iberia,92 €,1 h,Directo,17:45,18:45,ida y vuelta,2023-04-22T21:32:47.025568
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",101 €,15 h 20 min,1 escala,7:55,23:15,ida y vuelta,2023-04-22T21:32:47.025568
+Iberia,104 €,1 h 5 min,Directo,11:45,12:50,ida y vuelta,2023-04-22T21:32:47.025568
+Iberia,123 €,1 h 5 min,Directo,19:45,20:50,ida y vuelta,2023-04-22T21:32:47.025568
+IberiaOperado por Air Nostrum for Iberia,126 €,25 h 45 min,1 escala,15:45,17:30+1,ida y vuelta,2023-04-22T21:32:47.025568
+IberiaOperado por Air Nostrum for Iberia,126 €,21 h 50 min,1 escala,19:40,17:30+1,ida y vuelta,2023-04-22T21:32:47.025568
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",133 €,29 h 50 min,1 escala,11:40,17:30+1,ida y vuelta,2023-04-22T21:32:47.025568
+IberiaOperado por Air Nostrum for Iberia,133 €,19 h 15 min,1 escala,22:15,17:30+1,ida y vuelta,2023-04-22T21:32:47.025568
+Air Europa,135 €,1 h,Directo,19:05,20:05,ida y vuelta,2023-04-22T21:32:47.025568
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",146 €,3 h,1 escala,20:15,23:15,ida y vuelta,2023-04-22T21:32:47.025568
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",148 €,9 h 15 min,1 escala,23:00,8:15+1,ida y vuelta,2023-04-22T21:32:47.025568
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",181 €,12 h,1 escala,20:15,8:15+1,ida y vuelta,2023-04-22T21:32:47.025568
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",202 €,19 h,1 escala,23:00,18:00+1,ida y vuelta,2023-04-22T21:32:47.025568
+VuelingIberia,202 €,13 h 45 min,1 escala,18:30,8:15+1,ida y vuelta,2023-04-22T21:32:47.025568
+Air Europa,204 €,11 h 20 min,1 escala,7:05,18:25,ida y vuelta,2023-04-22T21:32:47.025568
+Air Europa,204 €,6 h 45 min,1 escala,11:40,18:25,ida y vuelta,2023-04-22T21:32:47.025568
+VuelingIberia,207 €,9 h 40 min,1 escala,22:35,8:15+1,ida y vuelta,2023-04-22T21:32:47.025568
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",215 €,7 h 15 min,1 escala,16:00,23:15,ida y vuelta,2023-04-22T21:32:47.025568
+VuelingIberia,217 €,14 h 25 min,1 escala,22:35,13:00+1,ida y vuelta,2023-04-22T21:32:47.025568
+Tap Air PortugalOperado por Xfly,218 €,15 h 30 min,1 escala,20:10,11:40+1,ida y vuelta,2023-04-22T21:32:47.025568
+VuelingIberia,222 €,11 h 45 min,1 escala,22:35,10:20+1,ida y vuelta,2023-04-22T21:32:47.025568
+Tap Air PortugalOperado por Xfly,227 €,13 h 25 min,1 escala,22:15,11:40+1,ida y vuelta,2023-04-22T21:32:47.025568
+VuelingIberia,232 €,4 h 30 min,1 escala,18:30,23:00,ida y vuelta,2023-04-22T21:32:47.025568
+Iberia,265 €,1 h 5 min,Directo,15:55,17:00,ida y vuelta,2023-04-22T21:32:47.025568
+VuelingIberia,272 €,3 h 50 min,1 escala,18:30,22:20,ida y vuelta,2023-04-22T21:32:47.025568
+Tap Air PortugalOperado por Xfly,282 €,17 h 45 min,1 escala,17:55,11:40+1,ida y vuelta,2023-04-22T21:32:47.025568
+IberiaOperado por Air Nostrum for Iberia,324 €,12 h 30 min,1 escala,7:20,19:50,ida y vuelta,2023-04-22T21:32:47.025568
+IberiaOperado por Air Nostrum for Iberia,391 €,4 h,1 escala,15:50,19:50,ida y vuelta,2023-04-22T21:32:47.025568
+Tap Air PortugalOperado por Xfly,426 €,19 h 20 min,1 escala,16:20,11:40+1,ida y vuelta,2023-04-22T21:32:47.025568
+Tap Air PortugalOperado por Xfly,474 €,5 h 25 min,1 escala,17:55,23:20,ida y vuelta,2023-04-22T21:32:47.025568
+Aer Lingus,494 €,10 h 5 min,1 escala,10:40,20:45,ida y vuelta,2023-04-22T21:32:47.025568
+Tap Air PortugalOperado por Xfly,496 €,15 h 40 min,1 escala,7:40,23:20,ida y vuelta,2023-04-22T21:32:47.025568
+Tap Air PortugalOperado por Xfly,496 €,12 h 15 min,1 escala,11:05,23:20,ida y vuelta,2023-04-22T21:32:47.025568
+Tap Air PortugalOperado por Xfly,496 €,9 h 45 min,1 escala,13:35,23:20,ida y vuelta,2023-04-22T21:32:47.025568
+Tap Air PortugalOperado por Xfly,496 €,7 h,1 escala,16:20,23:20,ida y vuelta,2023-04-22T21:32:47.025568
+VuelingIberia,598 €,18 h 30 min,1 escala,18:30,13:00+1,ida y vuelta,2023-04-22T21:32:47.025568
+VuelingIberia,645 €,18 h 20 min,1 escala,22:35,16:55+1,ida y vuelta,2023-04-22T21:32:47.025568
+VuelingIberia,645 €,20 h 20 min,1 escala,22:35,18:55+1,ida y vuelta,2023-04-22T21:32:47.025568
+LufthansaOperado por Lufthansa CityLine,909 €,10 h 45 min,1 escala,7:15,18:00,ida y vuelta,2023-04-22T21:32:47.025568
+LufthansaOperado por Lufthansa CityLine,909 €,15 h,1 escala,7:15,22:15,ida y vuelta,2023-04-22T21:32:47.025568
+LufthansaOperado por Lufthansa CityLine,909 €,6 h 5 min,1 escala,11:55,18:00,ida y vuelta,2023-04-22T21:32:47.025568
+LufthansaOperado por Lufthansa CityLine,909 €,10 h 20 min,1 escala,11:55,22:15,ida y vuelta,2023-04-22T21:32:47.025568
+LufthansaOperado por Lufthansa CityLine,909 €,6 h 50 min,1 escala,15:25,22:15,ida y vuelta,2023-04-22T21:32:47.025568
+LufthansaOperado por Lufthansa CityLine,929 €,19 h 25 min,1 escala,15:25,10:50+1,ida y vuelta,2023-04-22T21:32:47.025568
+Lufthansa,1.154 €,7 h 20 min,1 escala,6:10,13:30,ida y vuelta,2023-04-22T21:32:47.025568
+Air Europa,45 €,1 h,Directo,10:45,11:45,ida y vuelta,2023-04-22T21:33:18.747801
+Air Europa,114 €,1 h,Directo,15:20,16:20,ida y vuelta,2023-04-22T21:33:18.747801
+Air Europa,96 €,11 h 25 min,1 escala,8:20,19:45,ida y vuelta,2023-04-22T21:33:18.747801
+Air Europa,100 €,23 h 45 min,1 escala,8:20,8:05+1,ida y vuelta,2023-04-22T21:33:18.747801
+Air Europa,100 €,12 h 15 min,2 escalas,7:30,19:45,ida y vuelta,2023-04-22T21:33:18.747801
+Air Europa,115 €,9 h 30 min,1 escala,10:15,19:45,ida y vuelta,2023-04-22T21:33:18.747801
+Air EuropaOperado por Air Europa Express,115 €,5 h 10 min,1 escala,14:35,19:45,ida y vuelta,2023-04-22T21:33:18.747801
+Air Europa,115 €,10 h 20 min,1 escala,21:45,8:05+1,ida y vuelta,2023-04-22T21:33:18.747801
+Air Europa,119 €,21 h 50 min,1 escala,10:15,8:05+1,ida y vuelta,2023-04-22T21:33:18.747801
+Air EuropaOperado por Air Europa Express,119 €,17 h 30 min,1 escala,14:35,8:05+1,ida y vuelta,2023-04-22T21:33:18.747801
+Air Europa,119 €,15 h,1 escala,17:05,8:05+1,ida y vuelta,2023-04-22T21:33:18.747801
+Air EuropaOperado por Air Europa Express,127 €,13 h 5 min,1 escala,19:00,8:05+1,ida y vuelta,2023-04-22T21:33:18.747801
+IberiaOperado por Air Nostrum for Iberia,163 €,1 h,Directo,7:55,8:55,ida y vuelta,2023-04-22T21:33:18.747801
+Air Europa,169 €,26 h 40 min,1 escala,17:05,19:45+1,ida y vuelta,2023-04-22T21:33:18.747801
+Air Europa,169 €,22 h,1 escala,21:45,19:45+1,ida y vuelta,2023-04-22T21:33:18.747801
+Air EuropaOperado por Air Europa Express,182 €,24 h 45 min,1 escala,19:00,19:45+1,ida y vuelta,2023-04-22T21:33:18.747801
+IberiaOperado por Air Nostrum for Iberia,182 €,1 h 5 min,Directo,23:00,0:05+1,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",202 €,5 h 50 min,1 escala,7:05,12:55,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",202 €,12 h 20 min,1 escala,7:05,19:25,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",215 €,14 h 15 min,1 escala,22:40,12:55+1,ida y vuelta,2023-04-22T21:33:18.747801
+IberiaOperado por Air Nostrum for Iberia,217 €,1 h 5 min,Directo,16:00,17:05,ida y vuelta,2023-04-22T21:33:18.747801
+"Air EuropaOperado por Air Europa Express,Air Europa Express",230 €,4 h 35 min,2 escalas,15:10,19:45,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",238 €,5 h 15 min,1 escala,7:25,12:40,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",241 €,15 h 40 min,1 escala,7:25,23:05,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",246 €,3 h 10 min,1 escala,19:55,23:05,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",261 €,3 h 45 min,1 escala,15:40,19:25,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",262 €,17 h 15 min,1 escala,19:40,12:55+1,ida y vuelta,2023-04-22T21:33:18.747801
+"Tap Air PortugalOperado por Bulgaria Air,Portugalia Airlines",280 €,7 h 5 min,1 escala,16:20,23:25,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",286 €,11 h 30 min,1 escala,11:35,23:05,ida y vuelta,2023-04-22T21:33:18.747801
+Tap Air PortugalOperado por Xfly,310 €,9 h 55 min,1 escala,7:40,17:35,ida y vuelta,2023-04-22T21:33:18.747801
+Tap Air PortugalOperado por Portugalia Airlines,310 €,15 h 45 min,1 escala,7:40,23:25,ida y vuelta,2023-04-22T21:33:18.747801
+Tap Air PortugalOperado por Portugalia Airlines,310 €,5 h 30 min,1 escala,17:55,23:25,ida y vuelta,2023-04-22T21:33:18.747801
+"Tap Air PortugalOperado por Bulgaria Air,Xfly",312 €,6 h 30 min,1 escala,11:05,17:35,ida y vuelta,2023-04-22T21:33:18.747801
+"Tap Air PortugalOperado por Bulgaria Air,Portugalia Airlines",312 €,12 h 20 min,1 escala,11:05,23:25,ida y vuelta,2023-04-22T21:33:18.747801
+IberiaOperado por Air Nostrum for Iberia,313 €,1 h 5 min,Directo,20:15,21:20,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",324 €,16 h 45 min,1 escala,19:55,12:40+1,ida y vuelta,2023-04-22T21:33:18.747801
+IberiaOperado por Air Nostrum for Iberia,324 €,3 h 35 min,1 escala,12:25,16:00,ida y vuelta,2023-04-22T21:33:18.747801
+IberiaOperado por Air Nostrum for Iberia,340 €,4 h 30 min,1 escala,11:30,16:00,ida y vuelta,2023-04-22T21:33:18.747801
+IberiaOperado por Air Nostrum for Iberia,369 €,5 h 35 min,1 escala,15:55,21:30,ida y vuelta,2023-04-22T21:33:18.747801
+Tap Air PortugalOperado por Xfly,409 €,4 h,1 escala,13:35,17:35,ida y vuelta,2023-04-22T21:33:18.747801
+Tap Air PortugalOperado por Portugalia Airlines,409 €,9 h 50 min,1 escala,13:35,23:25,ida y vuelta,2023-04-22T21:33:18.747801
+IberiaOperado por Air Nostrum for Iberia,428 €,5 h 5 min,1 escala,11:05,16:10,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Mel Air for Airnostrum as Iberia",449 €,6 h 45 min,1 escala,15:45,22:30,ida y vuelta,2023-04-22T21:33:18.747801
+Tap Air PortugalOperado por Portugalia Airlines,472 €,15 h 40 min,1 escala,20:10,11:50+1,ida y vuelta,2023-04-22T21:33:18.747801
+Tap Air PortugalOperado por Portugalia Airlines,472 €,13 h 35 min,1 escala,22:15,11:50+1,ida y vuelta,2023-04-22T21:33:18.747801
+"IberiaOperado por Iberia Express,Mel Air for Airnostrum as Iberia",478 €,15 h,1 escala,7:30,22:30,ida y vuelta,2023-04-22T21:33:18.747801
+"Iberia,Royal Air MarocOperado por Air Nostrum for Iberia",852 €,6 h 35 min,1 escala,11:35,18:10,ida y vuelta,2023-04-22T21:33:18.747801
+"Iberia,Royal Air MarocOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",905 €,10 h 55 min,2 escalas,11:35,22:30,ida y vuelta,2023-04-22T21:33:18.747801
+"Vueling,IberiaOperado por Air Nostrum for Iberia",1.008 €,6 h 30 min,1 escala,9:30,16:00,ida y vuelta,2023-04-22T21:33:18.747801
+"Iberia,British Airways",1.035 €,6 h 40 min,1 escala,7:00,13:40,ida y vuelta,2023-04-22T21:33:18.747801
+Ryanair,56 €,3 h 5 min,Directo,6:45,8:50,ida y vuelta,2023-04-22T21:33:53.286323
+Iberia ExpressIberia,72 €,3 h,Directo,7:30,9:30,ida y vuelta,2023-04-22T21:33:53.286323
+Air Europa,94 €,2 h 55 min,Directo,7:05,9:00,ida y vuelta,2023-04-22T21:33:53.286323
+Iberia ExpressIberia,72 €,2 h 55 min,Directo,22:00,23:55,ida y vuelta,2023-04-22T21:33:53.286323
+Ryanair,75 €,3 h 5 min,Directo,13:10,15:15,ida y vuelta,2023-04-22T21:33:53.286323
+Iberia ExpressIberia,80 €,3 h,Directo,9:25,11:25,ida y vuelta,2023-04-22T21:33:53.286323
+Iberia ExpressIberia,82 €,3 h,Directo,14:40,16:40,ida y vuelta,2023-04-22T21:33:53.286323
+Iberia ExpressIberia,87 €,3 h,Directo,14:00,16:00,ida y vuelta,2023-04-22T21:33:53.286323
+Iberia ExpressIberia,93 €,3 h,Directo,11:55,13:55,ida y vuelta,2023-04-22T21:33:53.286323
+Air Europa,94 €,2 h 55 min,Directo,15:05,17:00,ida y vuelta,2023-04-22T21:33:53.286323
+Air Europa,123 €,2 h 55 min,Directo,20:00,21:55,ida y vuelta,2023-04-22T21:33:53.286323
+Iberia Express,148 €,3 h,Directo,16:15,18:15,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",158 €,14 h 15 min,1 escala,22:45,12:00+1,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",159 €,15 h 45 min,1 escala,22:45,13:30+1,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",159 €,17 h 5 min,1 escala,22:45,14:50+1,ida y vuelta,2023-04-22T21:33:53.286323
+IberiaOperado por Iberia Express,164 €,3 h,Directo,16:15,18:15,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",176 €,5 h 15 min,1 escala,7:45,12:00,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",176 €,6 h 45 min,1 escala,7:45,13:30,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",176 €,9 h,1 escala,7:45,15:45,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",191 €,5 h 5 min,1 escala,9:25,13:30,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",191 €,7 h 20 min,1 escala,9:25,15:45,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",198 €,5 h 20 min,1 escala,11:25,15:45,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",199 €,22 h 10 min,1 escala,14:50,12:00+1,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",199 €,23 h 40 min,1 escala,14:50,13:30+1,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryfly",202 €,24 h 35 min,1 escala,11:40,11:15+1,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",215 €,24 h 35 min,1 escala,12:25,12:00+1,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",215 €,26 h 5 min,1 escala,12:25,13:30+1,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryfly",220 €,21 h 15 min,1 escala,15:00,11:15+1,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",223 €,20 h 20 min,1 escala,16:40,12:00+1,ida y vuelta,2023-04-22T21:33:53.286323
+"Iberia,Binter CanariasOperado por Iberia Express",223 €,21 h 50 min,1 escala,16:40,13:30+1,ida y vuelta,2023-04-22T21:33:53.286323
+VuelingIberia,242 €,11 h 45 min,1 escala,22:35,9:20+1,ida y vuelta,2023-04-22T21:33:53.286323
+VuelingIberia,252 €,7 h 30 min,1 escala,13:40,20:10,ida y vuelta,2023-04-22T21:33:53.286323
+VuelingIberia,252 €,15 h 50 min,1 escala,18:30,9:20+1,ida y vuelta,2023-04-22T21:33:53.286323
+VuelingIberia,282 €,11 h 40 min,1 escala,9:30,20:10,ida y vuelta,2023-04-22T21:33:53.286323
+VuelingIberia,292 €,6 h 10 min,1 escala,9:30,14:40,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryflyOperado por Air Europa Express",376 €,13 h 25 min,1 escala,7:05,19:30,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryfly",376 €,8 h 50 min,1 escala,11:40,19:30,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryfly",376 €,5 h 30 min,1 escala,15:00,19:30,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryflyOperado por Air Europa Express",452 €,5 h 10 min,1 escala,7:05,11:15,ida y vuelta,2023-04-22T21:33:53.286323
+Vueling,457 €,10 h 25 min,1 escala,13:40,23:05,ida y vuelta,2023-04-22T21:33:53.286323
+Vueling,477 €,5 h 35 min,1 escala,18:30,23:05,ida y vuelta,2023-04-22T21:33:53.286323
+Aer Lingus,487 €,10 h,1 escala,10:40,19:40,ida y vuelta,2023-04-22T21:33:53.286323
+Vueling,487 €,14 h 35 min,1 escala,9:30,23:05,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryflyOperado por Air Europa Express",493 €,16 h 55 min,2 escalas,7:05,23:00,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryflyOperado por Air Europa Express",506 €,7 h 55 min,2 escalas,7:05,14:00,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryflyOperado por Air Europa Express",506 €,14 h 5 min,2 escalas,7:05,20:10,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryflyOperado por Air Europa Express",520 €,10 h 25 min,2 escalas,7:05,16:30,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryflyOperado por Air Europa Express",531 €,12 h 45 min,2 escalas,7:05,18:50,ida y vuelta,2023-04-22T21:33:53.286323
+"Air Europa,canaryfly",531 €,8 h 10 min,2 escalas,11:40,18:50,ida y vuelta,2023-04-22T21:33:53.286323
+VuelingIberia,695 €,20 h 40 min,1 escala,13:40,9:20+1,ida y vuelta,2023-04-22T21:33:53.286323
+VuelingIberia,699 €,22 h 35 min,1 escala,22:35,20:10+1,ida y vuelta,2023-04-22T21:33:53.286323
+VuelingIberia,726 €,24 h 50 min,1 escala,9:30,9:20+1,ida y vuelta,2023-04-22T21:33:53.286323
+VuelingIberia,737 €,17 h 5 min,1 escala,22:35,14:40+1,ida y vuelta,2023-04-22T21:33:53.286323
+VuelingIberia,754 €,21 h 10 min,1 escala,18:30,14:40+1,ida y vuelta,2023-04-22T21:33:53.286323
+"SWISS,Edelweiss AirOperado por Helvetic",5.850 €,15 h,1 escala,19:45,9:45+1,ida y vuelta,2023-04-22T21:33:53.286323
+Ryanair,60 €,3 h,Directo,6:10,8:10,ida y vuelta,2023-04-22T21:34:25.964830
+Iberia ExpressIberia,134 €,2 h 55 min,Directo,7:45,9:40,ida y vuelta,2023-04-22T21:34:25.964830
+Air Europa,144 €,2 h 50 min,Directo,7:05,8:55,ida y vuelta,2023-04-22T21:34:25.964830
+Iberia ExpressIberia,136 €,2 h 55 min,Directo,14:50,16:45,ida y vuelta,2023-04-22T21:34:25.964830
+Iberia ExpressIberia,140 €,2 h 55 min,Directo,12:25,14:20,ida y vuelta,2023-04-22T21:34:25.964830
+Air Europa,144 €,2 h 55 min,Directo,11:40,13:35,ida y vuelta,2023-04-22T21:34:25.964830
+Air Europa,151 €,2 h 55 min,Directo,15:00,16:55,ida y vuelta,2023-04-22T21:34:25.964830
+Billetes separados que se han reservado juntos,151 €,"Air Europa,Vueling",MAD–TFN,7:00,12:35,ida y vuelta,2023-04-22T21:34:25.964830
+Iberia ExpressIberia,184 €,2 h 55 min,Directo,9:25,11:20,ida y vuelta,2023-04-22T21:34:25.964830
+"Air Europa,canaryfly",192 €,28 h 10 min,1 escala,7:05,10:15+1,ida y vuelta,2023-04-22T21:34:25.964830
+Air Europa,199 €,15 h 45 min,1 escala,6:40,21:25,ida y vuelta,2023-04-22T21:34:25.964830
+Air Europa,199 €,11 h 25 min,1 escala,11:00,21:25,ida y vuelta,2023-04-22T21:34:25.964830
+Air Europa,199 €,7 h 25 min,1 escala,15:00,21:25,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",200 €,5 h 30 min,1 escala,7:30,12:00,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",201 €,26 h 30 min,1 escala,7:30,9:00+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",201 €,24 h 35 min,1 escala,9:25,9:00+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",201 €,26 h 5 min,1 escala,9:25,10:30+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Air Europa,canaryfly",202 €,20 h 10 min,1 escala,15:05,10:15+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Air Europa,canaryfly",202 €,26 h 25 min,1 escala,15:05,16:30+1,ida y vuelta,2023-04-22T21:34:25.964830
+Billetes separados que se han reservado juntos,202 €,"Air Europa,Binter Canarias",MAD–TFN,15:05,18:30,ida y vuelta,2023-04-22T21:34:25.964830
+Iberia Express,203 €,2 h 55 min,Directo,20:00,21:55,ida y vuelta,2023-04-22T21:34:25.964830
+Iberia Express,205 €,2 h 55 min,Directo,16:40,18:35,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",213 €,20 h,1 escala,14:00,9:00+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",213 €,21 h 30 min,1 escala,14:00,10:30+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",213 €,23 h,1 escala,14:00,12:00+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",213 €,19 h 20 min,1 escala,14:40,9:00+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",213 €,20 h 50 min,1 escala,14:40,10:30+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",213 €,22 h 20 min,1 escala,14:40,12:00+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",218 €,12 h,1 escala,22:00,9:00+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",218 €,13 h 30 min,1 escala,22:00,10:30+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",218 €,15 h,1 escala,22:00,12:00+1,ida y vuelta,2023-04-22T21:34:25.964830
+IberiaOperado por Iberia Express,230 €,2 h 55 min,Directo,16:40,18:35,ida y vuelta,2023-04-22T21:34:25.964830
+IberiaOperado por Iberia Express,230 €,2 h 55 min,Directo,20:00,21:55,ida y vuelta,2023-04-22T21:34:25.964830
+"Air Europa,canaryfly",261 €,21 h 30 min,1 escala,20:00,16:30+1,ida y vuelta,2023-04-22T21:34:25.964830
+VuelingIberia,287 €,12 h 10 min,1 escala,22:35,9:45+1,ida y vuelta,2023-04-22T21:34:25.964830
+VuelingIberia,292 €,6 h 45 min,1 escala,13:40,19:25,ida y vuelta,2023-04-22T21:34:25.964830
+VuelingIberia,292 €,9 h 45 min,1 escala,13:40,22:25,ida y vuelta,2023-04-22T21:34:25.964830
+VuelingIberia,302 €,10 h 55 min,1 escala,9:30,19:25,ida y vuelta,2023-04-22T21:34:25.964830
+VuelingIberia,302 €,13 h 55 min,1 escala,9:30,22:25,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,Binter CanariasOperado por Iberia Express",324 €,17 h 45 min,1 escala,16:15,9:00+1,ida y vuelta,2023-04-22T21:34:25.964830
+VuelingIberia,327 €,16 h 15 min,1 escala,18:30,9:45+1,ida y vuelta,2023-04-22T21:34:25.964830
+VuelingIberia,332 €,6 h 5 min,1 escala,9:30,14:35,ida y vuelta,2023-04-22T21:34:25.964830
+"Air Europa,canaryfly",420 €,10 h 25 min,1 escala,7:05,16:30,ida y vuelta,2023-04-22T21:34:25.964830
+"Air Europa,canaryfly",420 €,15 h 15 min,1 escala,20:00,10:15+1,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",742 €,15 h 30 min,2 escalas,7:55,22:25,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",764 €,12 h 30 min,2 escalas,7:55,19:25,ida y vuelta,2023-04-22T21:34:25.964830
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",764 €,15 h 30 min,2 escalas,7:55,22:25,ida y vuelta,2023-04-22T21:34:25.964830
+VuelingIberia,1.040 €,17 h,1 escala,22:35,14:35+1,ida y vuelta,2023-04-22T21:34:25.964830
+VuelingIberia,1.080 €,25 h 55 min,1 escala,13:40,14:35+1,ida y vuelta,2023-04-22T21:34:25.964830
+VuelingIberia,1.100 €,21 h 5 min,1 escala,18:30,14:35+1,ida y vuelta,2023-04-22T21:34:25.964830
+Iberia ExpressIberia,51 €,1 h 15 min,Directo,7:30,8:45,ida y vuelta,2023-04-22T21:34:53.086966
+Iberia Express,59 €,1 h 15 min,Directo,19:45,21:00,ida y vuelta,2023-04-22T21:34:53.086966
+Air Europa,63 €,1 h 15 min,Directo,6:35,7:50,ida y vuelta,2023-04-22T21:34:53.086966
+IberiaOperado por Iberia Express,70 €,1 h 15 min,Directo,19:45,21:00,ida y vuelta,2023-04-22T21:34:53.086966
+Air Europa,63 €,1 h 15 min,Directo,19:05,20:20,ida y vuelta,2023-04-22T21:34:53.086966
+Air Europa,73 €,1 h 15 min,Directo,10:35,11:50,ida y vuelta,2023-04-22T21:34:53.086966
+Iberia Express,81 €,1 h 15 min,Directo,15:45,17:00,ida y vuelta,2023-04-22T21:34:53.086966
+Air Europa,91 €,1 h 15 min,Directo,15:00,16:15,ida y vuelta,2023-04-22T21:34:53.086966
+IberiaOperado por Iberia Express,94 €,1 h 15 min,Directo,15:45,17:00,ida y vuelta,2023-04-22T21:34:53.086966
+VuelingIberia,175 €,10 h,1 escala,22:35,8:35+1,ida y vuelta,2023-04-22T21:34:53.086966
+VuelingIberia,193 €,4 h 55 min,1 escala,9:30,14:25,ida y vuelta,2023-04-22T21:34:53.086966
+VuelingIberia,193 €,6 h 15 min,1 escala,9:30,15:45,ida y vuelta,2023-04-22T21:34:53.086966
+VuelingIberia,242 €,13 h,1 escala,9:30,22:30,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,249 €,5 h,1 escala,17:55,22:55,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,249 €,11 h 20 min,1 escala,22:15,9:35+1,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,258 €,15 h 40 min,1 escala,17:55,9:35+1,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,279 €,15 h 15 min,1 escala,7:40,22:55,ida y vuelta,2023-04-22T21:34:53.086966
+VuelingIberia,307 €,6 h,1 escala,16:30,22:30,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,311 €,11 h 50 min,1 escala,11:05,22:55,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,311 €,6 h 35 min,1 escala,16:20,22:55,ida y vuelta,2023-04-22T21:34:53.086966
+"Tap Air PortugalOperado por Bulgaria Air,Portugalia Airlines",311 €,13 h 25 min,1 escala,20:10,9:35+1,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,338 €,9 h 20 min,1 escala,13:35,22:55,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,338 €,20 h,1 escala,13:35,9:35+1,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,338 €,17 h 15 min,1 escala,16:20,9:35+1,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,410 €,16 h 25 min,1 escala,22:15,14:40+1,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,413 €,20 h 45 min,1 escala,17:55,14:40+1,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",425 €,3 h 55 min,1 escala,16:55,20:50,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",427 €,16 h 10 min,1 escala,16:55,9:05+1,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",427 €,19 h,1 escala,16:55,11:55+1,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",431 €,18 h,1 escala,16:55,10:55+1,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",431 €,21 h,1 escala,16:55,13:55+1,ida y vuelta,2023-04-22T21:34:53.086966
+"Tap Air PortugalOperado por Bulgaria Air,Portugalia Airlines",457 €,18 h 30 min,1 escala,20:10,14:40+1,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",475 €,11 h 50 min,2 escalas,9:00,20:50,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",475 €,9 h 20 min,2 escalas,11:30,20:50,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",477 €,21 h 35 min,2 escalas,11:30,9:05+1,ida y vuelta,2023-04-22T21:34:53.086966
+British AirwaysOperado por Finnair for British Airways,496 €,17 h 10 min,1 escala,17:20,10:30+1,ida y vuelta,2023-04-22T21:34:53.086966
+Aer Lingus,519 €,9 h 55 min,1 escala,10:40,20:35,ida y vuelta,2023-04-22T21:34:53.086966
+British AirwaysIberiaOperado por Finnair for British Airways,524 €,15 h 30 min,1 escala,19:00,10:30+1,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",525 €,8 h 45 min,1 escala,12:05,20:50,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,527 €,7 h,1 escala,7:40,14:40,ida y vuelta,2023-04-22T21:34:53.086966
+Tap Air PortugalOperado por Portugalia Airlines,527 €,3 h 35 min,1 escala,11:05,14:40,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",529 €,5 h 50 min,1 escala,12:05,17:55,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",535 €,11 h 10 min,1 escala,9:40,20:50,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",539 €,8 h 15 min,1 escala,9:40,17:55,ida y vuelta,2023-04-22T21:34:53.086966
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",543 €,5 h 15 min,1 escala,9:40,14:55,ida y vuelta,2023-04-22T21:34:53.086966
+British AirwaysOperado por BA Cityflyer,664 €,23 h 45 min,1 escala,17:20,17:05+1,ida y vuelta,2023-04-22T21:34:53.086966
+VuelingIberia,680 €,18 h 35 min,1 escala,22:35,17:10+1,ida y vuelta,2023-04-22T21:34:53.086966
+VuelingIberia,680 €,19 h 5 min,1 escala,22:35,17:40+1,ida y vuelta,2023-04-22T21:34:53.086966
+British AirwaysOperado por BA Cityflyer,692 €,22 h 5 min,1 escala,19:00,17:05+1,ida y vuelta,2023-04-22T21:34:53.086966
+VuelingIberia,697 €,16 h 5 min,1 escala,16:30,8:35+1,ida y vuelta,2023-04-22T21:34:53.086966
+British AirwaysOperado por Finnair for British Airways,723 €,13 h 45 min,1 escala,20:45,10:30+1,ida y vuelta,2023-04-22T21:34:53.086966
+British AirwaysOperado por Finnair for British Airways,774 €,18 h 40 min,1 escala,17:20,12:00+1,ida y vuelta,2023-04-22T21:34:53.086966
+British AirwaysOperado por Finnair for British Airways,802 €,17 h,1 escala,19:00,12:00+1,ida y vuelta,2023-04-22T21:34:53.086966
+Lufthansa,4.613 €,8 h 30 min,1 escala,8:30,17:00,ida y vuelta,2023-04-22T21:34:53.086966
+Brussels Airlines,4.886 €,8 h 25 min,1 escala,6:20,14:45,ida y vuelta,2023-04-22T21:34:53.086966
+Brussels Airlines,4.886 €,13 h,1 escala,6:20,19:20,ida y vuelta,2023-04-22T21:34:53.086966
+Brussels Airlines,4.886 €,6 h 40 min,1 escala,12:40,19:20,ida y vuelta,2023-04-22T21:34:53.086966
+SWISS,5.399 €,17 h 5 min,1 escala,19:45,12:50+1,ida y vuelta,2023-04-22T21:34:53.086966
+SWISS,5.399 €,19 h 25 min,1 escala,19:45,15:10+1,ida y vuelta,2023-04-22T21:34:53.086966
+"Air FranceOperado por HOP!,HOP!",Precio no disponible,6 h 40 min,1 escala,10:05,16:45,No disponible,2023-04-22T21:34:53.086966
+Air France,Precio no disponible,5 h 45 min,1 escala,17:50,23:35,No disponible,2023-04-22T21:34:53.086966
+Iberia,70 €,1 h 10 min,Directo,7:20,8:30,ida y vuelta,2023-04-22T21:35:29.624585
+Iberia,83 €,1 h 10 min,Directo,22:00,23:10,ida y vuelta,2023-04-22T21:35:29.624585
+IberiaOperado por Air Nostrum for Iberia,114 €,1 h 10 min,Directo,15:50,17:00,ida y vuelta,2023-04-22T21:35:29.624585
+Iberia,133 €,1 h 10 min,Directo,19:50,21:00,ida y vuelta,2023-04-22T21:35:29.624585
+Iberia,140 €,1 h 10 min,Directo,11:40,12:50,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,257 €,4 h 50 min,1 escala,9:30,14:20,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,277 €,10 h 30 min,1 escala,22:35,9:05+1,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,317 €,14 h 35 min,1 escala,18:30,9:05+1,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,337 €,8 h 35 min,1 escala,13:40,22:15,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,347 €,12 h 45 min,1 escala,9:30,22:15,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,367 €,3 h 45 min,1 escala,18:30,22:15,ida y vuelta,2023-04-22T21:35:29.624585
+"Iberia,VuelingOperado por Iberia Express",578 €,20 h 30 min,1 escala,22:45,19:15+1,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,649 €,17 h 45 min,1 escala,22:35,16:20+1,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,649 €,34 h 30 min,1 escala,22:35,9:05+2,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,689 €,30 h 50 min,1 escala,9:30,16:20+1,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,689 €,26 h 40 min,1 escala,13:40,16:20+1,ida y vuelta,2023-04-22T21:35:29.624585
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",707 €,6 h 25 min,2 escalas,7:55,14:20,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,709 €,21 h 50 min,1 escala,18:30,16:20+1,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,717 €,23 h 30 min,1 escala,22:35,22:05+1,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,720 €,23 h 35 min,1 escala,9:30,9:05+1,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,720 €,19 h 25 min,1 escala,13:40,9:05+1,ida y vuelta,2023-04-22T21:35:29.624585
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",723 €,25 h 10 min,2 escalas,7:55,9:05+1,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,757 €,32 h 25 min,1 escala,13:40,22:05+1,ida y vuelta,2023-04-22T21:35:29.624585
+VuelingIberia,789 €,27 h 35 min,1 escala,18:30,22:05+1,ida y vuelta,2023-04-22T21:35:29.624585
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",1.393 €,25 h 10 min,2 escalas,7:55,9:05+1,ida y vuelta,2023-04-22T21:35:29.624585
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",1.428 €,14 h 20 min,2 escalas,7:55,22:15,ida y vuelta,2023-04-22T21:35:29.624585
+IberiaOperado por Air Nostrum for Iberia,65 €,1 h 5 min,Directo,7:30,8:35,ida y vuelta,2023-04-22T21:35:55.984094
+IberiaOperado por Air Nostrum for Iberia,108 €,1 h 10 min,Directo,19:50,21:00,ida y vuelta,2023-04-22T21:35:55.984094
+IberiaOperado por Air Nostrum for Iberia,131 €,1 h 10 min,Directo,12:00,13:10,ida y vuelta,2023-04-22T21:35:55.984094
+IberiaOperado por Air Nostrum for Iberia,145 €,1 h 10 min,Directo,15:50,17:00,ida y vuelta,2023-04-22T21:35:55.984094
+Vueling,187 €,10 h 5 min,1 escala,22:35,8:40+1,ida y vuelta,2023-04-22T21:35:55.984094
+Vueling,207 €,6 h 5 min,1 escala,9:30,15:35,ida y vuelta,2023-04-22T21:35:55.984094
+Vueling,227 €,14 h 10 min,1 escala,18:30,8:40+1,ida y vuelta,2023-04-22T21:35:55.984094
+IberiaOperado por Air Nostrum for Iberia,94 €,1 h 10 min,Directo,12:00,13:10,ida y vuelta,2023-04-22T21:36:25.321386
+IberiaOperado por Air Nostrum for Iberia,152 €,1 h 10 min,Directo,7:45,8:55,ida y vuelta,2023-04-22T21:36:25.321386
+IberiaOperado por Air Nostrum for Iberia,159 €,1 h 15 min,Directo,19:50,21:05,ida y vuelta,2023-04-22T21:36:25.321386
+VuelingIberia,332 €,14 h 15 min,1 escala,22:35,12:50+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",359 €,6 h 55 min,1 escala,12:05,19:00,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",361 €,25 h 5 min,1 escala,12:05,13:10+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",361 €,21 h 10 min,1 escala,16:00,13:10+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",361 €,20 h 15 min,1 escala,16:55,13:10+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",373 €,27 h,1 escala,16:00,19:00+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",373 €,26 h 5 min,1 escala,16:55,19:00+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",427 €,9 h 20 min,1 escala,9:40,19:00,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",429 €,27 h 30 min,1 escala,9:40,13:10+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",504 €,11 h 20 min,2 escalas,7:40,19:00,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",506 €,29 h 30 min,2 escalas,7:40,13:10+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",507 €,11 h 20 min,2 escalas,7:40,19:00,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",509 €,29 h 30 min,2 escalas,7:40,13:10+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",556 €,23 h 20 min,2 escalas,19:40,19:00+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Iberia Express,Mel Air for Airnostrum as Iberia",647 €,22 h 35 min,1 escala,11:40,10:15+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Iberia Express,Mel Air for Airnostrum as Iberia",647 €,18 h 15 min,1 escala,16:00,10:15+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Iberia Express,Mel Air for Airnostrum as Iberia",647 €,14 h 30 min,1 escala,19:45,10:15+1,ida y vuelta,2023-04-22T21:36:25.321386
+VuelingIberia,851 €,18 h 20 min,1 escala,18:30,12:50+1,ida y vuelta,2023-04-22T21:36:25.321386
+"Iberia,VuelingOperado por Iberia Express",1.016 €,15 h 10 min,2 escalas,21:40,12:50+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",1.220 €,34 h 45 min,2 escalas,11:45,22:30+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",1.231 €,7 h 30 min,2 escalas,11:30,19:00,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",1.292 €,22 h 30 min,2 escalas,11:45,10:15+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",1.468 €,11 h 15 min,2 escalas,23:00,10:15+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",1.472 €,26 h 15 min,2 escalas,20:15,22:30+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",1.472 €,23 h 30 min,2 escalas,23:00,22:30+1,ida y vuelta,2023-04-22T21:36:25.321386
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",1.678 €,29 h 35 min,2 escalas,16:55,22:30+1,ida y vuelta,2023-04-22T21:36:25.321386
+Iberia,65 €,1 h 10 min,Directo,7:30,8:40,ida y vuelta,2023-04-22T21:36:53.165346
+IberiaOperado por Air Nostrum for Iberia,167 €,1 h 15 min,Directo,19:40,20:55,ida y vuelta,2023-04-22T21:36:53.165346
+Iberia,215 €,1 h 15 min,Directo,11:40,12:55,ida y vuelta,2023-04-22T21:36:53.165346
+VuelingIberia,353 €,3 h 55 min,1 escala,9:30,13:25,ida y vuelta,2023-04-22T21:36:53.165346
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",715 €,5 h 30 min,2 escalas,7:55,13:25,ida y vuelta,2023-04-22T21:36:53.165346
+VuelingIberia,730 €,16 h 5 min,1 escala,22:35,14:40+1,ida y vuelta,2023-04-22T21:36:53.165346
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",755 €,30 h 45 min,2 escalas,7:55,14:40+1,ida y vuelta,2023-04-22T21:36:53.165346
+VuelingIberia,770 €,29 h 10 min,1 escala,9:30,14:40+1,ida y vuelta,2023-04-22T21:36:53.165346
+VuelingIberia,770 €,25 h,1 escala,13:40,14:40+1,ida y vuelta,2023-04-22T21:36:53.165346
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",777 €,30 h 45 min,2 escalas,7:55,14:40+1,ida y vuelta,2023-04-22T21:36:53.165346
+VuelingIberia,790 €,20 h 10 min,1 escala,18:30,14:40+1,ida y vuelta,2023-04-22T21:36:53.165346
+"SWISS,Eurowings DiscoverLufthansaOperado por Air Baltic for Swiss International Air Lines",1.129 €,36 h 5 min,2 escalas,19:45,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"SWISS,Eurowings DiscoverLufthansa",1.129 €,36 h 5 min,2 escalas,19:45,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"SWISS,Lufthansa,Eurowings Discover",1.129 €,36 h 5 min,2 escalas,19:45,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"SWISS,Lufthansa,Eurowings Discover",1.129 €,36 h 5 min,2 escalas,19:45,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"SWISS,Lufthansa,Eurowings Discover",1.154 €,36 h 5 min,2 escalas,19:45,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,Eurowings DiscoverOperado por Lufthansa CityLine",1.273 €,40 h 25 min,2 escalas,15:25,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,Eurowings DiscoverOperado por Lufthansa CityLine",1.278 €,40 h 25 min,2 escalas,15:25,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,Eurowings DiscoverOperado por Lufthansa CityLine",1.278 €,40 h 25 min,2 escalas,15:25,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,Eurowings DiscoverOperado por Lufthansa CityLine",1.378 €,40 h 25 min,2 escalas,15:25,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,Eurowings DiscoverOperado por Lufthansa CityLine",1.381 €,40 h 25 min,2 escalas,15:25,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,Eurowings DiscoverOperado por Lufthansa CityLine",1.390 €,40 h 25 min,2 escalas,15:25,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,Eurowings DiscoverOperado por Lufthansa CityLine",1.390 €,40 h 25 min,2 escalas,15:25,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,Eurowings DiscoverOperado por Lufthansa CityLine",1.394 €,40 h 25 min,2 escalas,15:25,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,Eurowings DiscoverOperado por Lufthansa CityLine",1.394 €,40 h 25 min,2 escalas,15:25,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"SWISS,Eurowings DiscoverLufthansa",1.520 €,36 h 5 min,2 escalas,19:45,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"SWISS,Lufthansa,Eurowings Discover",1.520 €,36 h 5 min,2 escalas,19:45,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"SWISS,Lufthansa,Eurowings Discover",1.520 €,36 h 5 min,2 escalas,19:45,7:50+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,LuxairOperado por Lufthansa CityLine",1.589 €,39 h 35 min,2 escalas,17:10,8:45+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,LuxairOperado por Lufthansa CityLine",1.613 €,39 h 35 min,2 escalas,17:10,8:45+2,ida y vuelta,2023-04-22T21:36:53.165346
+"Lufthansa,LuxairOperado por Lufthansa CityLine",1.641 €,39 h 35 min,2 escalas,17:10,8:45+2,ida y vuelta,2023-04-22T21:36:53.165346
+IberiaOperado por Air Nostrum for Iberia,107 €,1 h 10 min,Directo,15:55,17:05,ida y vuelta,2023-04-22T21:37:17.237884
+IberiaOperado por Air Nostrum for Iberia,160 €,1 h 10 min,Directo,12:00,13:10,ida y vuelta,2023-04-22T21:37:17.237884
+IberiaOperado por Air Nostrum for Iberia,174 €,1 h 10 min,Directo,19:40,20:50,ida y vuelta,2023-04-22T21:37:17.237884
+VuelingIberia,292 €,10 h 20 min,1 escala,22:35,8:55+1,ida y vuelta,2023-04-22T21:37:17.237884
+VuelingIberia,302 €,14 h 30 min,1 escala,18:25,8:55+1,ida y vuelta,2023-04-22T21:37:17.237884
+VuelingIberia,302 €,13 h 40 min,1 escala,22:35,12:15+1,ida y vuelta,2023-04-22T21:37:17.237884
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",364 €,27 h 5 min,1 escala,7:40,10:45+1,ida y vuelta,2023-04-22T21:37:17.237884
+"Iberia,VuelingOperado por Iberia Express",420 €,36 h 40 min,1 escala,22:45,11:25+2,ida y vuelta,2023-04-22T21:37:17.237884
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",490 €,22 h 40 min,1 escala,12:05,10:45+1,ida y vuelta,2023-04-22T21:37:17.237884
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",535 €,22 h 45 min,2 escalas,12:00,10:45+1,ida y vuelta,2023-04-22T21:37:17.237884
+"IberiaOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",537 €,22 h 45 min,2 escalas,12:00,10:45+1,ida y vuelta,2023-04-22T21:37:17.237884
+VuelingIberia,647 €,34 h 20 min,1 escala,22:35,8:55+2,ida y vuelta,2023-04-22T21:37:17.237884
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",667 €,17 h 50 min,1 escala,16:55,10:45+1,ida y vuelta,2023-04-22T21:37:17.237884
+VuelingIberia,720 €,23 h 30 min,1 escala,22:35,22:05+1,ida y vuelta,2023-04-22T21:37:17.237884
+VuelingIberia,744 €,27 h 40 min,1 escala,18:25,22:05+1,ida y vuelta,2023-04-22T21:37:17.237884
+VuelingIberia,794 €,17 h 50 min,1 escala,18:25,12:15+1,ida y vuelta,2023-04-22T21:37:17.237884
+"Iberia,VuelingOperado por Iberia Express",928 €,24 h 25 min,2 escalas,21:40,22:05+1,ida y vuelta,2023-04-22T21:37:17.237884
+"Iberia,VuelingOperado por Iberia Express",1.003 €,14 h 35 min,2 escalas,21:40,12:15+1,ida y vuelta,2023-04-22T21:37:17.237884
+"Iberia,VuelingOperado por Iberia Express",1.017 €,24 h 10 min,2 escalas,8:45,8:55+1,ida y vuelta,2023-04-22T21:37:17.237884
+"Iberia,VuelingOperado por Iberia Express",1.017 €,24 h 10 min,2 escalas,8:45,8:55+1,ida y vuelta,2023-04-22T21:37:17.237884
+"Iberia,VuelingOperado por Iberia Express",1.017 €,24 h 10 min,2 escalas,8:45,8:55+1,ida y vuelta,2023-04-22T21:37:17.237884
+"Iberia,VuelingOperado por Iberia Express",1.024 €,24 h 10 min,2 escalas,8:45,8:55+1,ida y vuelta,2023-04-22T21:37:17.237884
+"Iberia,Vueling",1.029 €,21 h 20 min,2 escalas,11:35,8:55+1,ida y vuelta,2023-04-22T21:37:17.237884
+"Iberia,Vueling",1.050 €,25 h 25 min,2 escalas,7:30,8:55+1,ida y vuelta,2023-04-22T21:37:17.237884
+Ryanair,61 €,3 h 10 min,Directo,14:30,16:40,ida y vuelta,2023-04-22T21:37:45.458835
+Iberia ExpressIberia,91 €,3 h 5 min,Directo,22:45,0:50+1,ida y vuelta,2023-04-22T21:37:45.458835
+Billetes separados que se han reservado juntos,124 €,Iberia,MAD–TFS,22:45,0:50+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,Binter CanariasOperado por Iberia Express",173 €,11 h 45 min,1 escala,7:30,18:15,ida y vuelta,2023-04-22T21:37:45.458835
+Iberia Express,174 €,3 h 10 min,Directo,11:25,13:35,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,Binter CanariasOperado por Iberia Express",174 €,19 h 20 min,1 escala,23:55,18:15+1,ida y vuelta,2023-04-22T21:37:45.458835
+IberiaVuelingOperado por Iberia Express,192 €,3 h 10 min,Directo,11:25,13:35,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,Binter CanariasOperado por Iberia Express",225 €,7 h 20 min,1 escala,11:55,18:15,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,Binter CanariasOperado por Iberia Express",244 €,9 h 50 min,1 escala,9:25,18:15,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,Binter CanariasOperado por Iberia Express",275 €,21 h 15 min,1 escala,22:00,18:15+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Tap Air PortugalOperado por Portugalia Airlines,Portugalia Airlines",328 €,17 h 5 min,1 escala,20:10,12:15+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Tap Air PortugalOperado por Portugalia Airlines,Portugalia Airlines",328 €,15 h,1 escala,22:15,12:15+1,ida y vuelta,2023-04-22T21:37:45.458835
+Tap Air PortugalOperado por Portugalia Airlines,332 €,26 h 10 min,1 escala,11:05,12:15+1,ida y vuelta,2023-04-22T21:37:45.458835
+Tap Air PortugalOperado por Portugalia Airlines,345 €,5 h 35 min,1 escala,7:40,12:15,ida y vuelta,2023-04-22T21:37:45.458835
+Tap Air PortugalOperado por Portugalia Airlines,377 €,20 h 55 min,1 escala,16:20,12:15+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Tap Air PortugalOperado por Portugalia Airlines,Portugalia Airlines",377 €,19 h 20 min,1 escala,17:55,12:15+1,ida y vuelta,2023-04-22T21:37:45.458835
+Tap Air PortugalOperado por Portugalia Airlines,380 €,29 h 35 min,1 escala,7:40,12:15+1,ida y vuelta,2023-04-22T21:37:45.458835
+Tap Air PortugalOperado por Portugalia Airlines,431 €,23 h 40 min,1 escala,13:35,12:15+1,ida y vuelta,2023-04-22T21:37:45.458835
+Billetes separados que se han reservado juntos,628 €,Transavia,MAD–TFS,13:05,14:35+1,ida y vuelta,2023-04-22T21:37:45.458835
+Aer Lingus,843 €,10 h,1 escala,10:40,19:40,ida y vuelta,2023-04-22T21:37:45.458835
+Aer Lingus,923 €,26 h 5 min,1 escala,10:40,11:45+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British AirwaysOperado por BA Euroflyer",1.036 €,12 h 15 min,1 escala,8:00,19:15,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British AirwaysOperado por Iberia Express,BA Euroflyer",1.094 €,11 h 30 min,1 escala,8:45,19:15,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,VuelingOperado por Iberia Express",1.133 €,19 h 40 min,1 escala,21:40,16:20+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British Airways",1.181 €,22 h 5 min,1 escala,14:55,12:00+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British AirwaysOperado por BA Euroflyer",1.211 €,13 h 15 min,1 escala,7:00,19:15,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British AirwaysOperado por BA Euroflyer",1.211 €,11 h 5 min,1 escala,9:10,19:15,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British Airways",1.244 €,23 h 30 min,1 escala,13:30,12:00+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British Airways",1.244 €,21 h 15 min,1 escala,15:45,12:00+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British Airways",1.244 €,20 h 10 min,1 escala,16:50,12:00+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British Airways",1.244 €,25 h 30 min,1 escala,16:50,17:20+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British Airways",1.244 €,19 h 5 min,1 escala,17:55,12:00+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British Airways",1.244 €,24 h 25 min,1 escala,17:55,17:20+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British AirwaysOperado por Iberia Express for Iberia,BA Euroflyer",1.251 €,24 h 15 min,1 escala,18:40,17:55+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British AirwaysOperado por Iberia Express for Iberia",1.255 €,18 h 20 min,1 escala,18:40,12:00+1,ida y vuelta,2023-04-22T21:37:45.458835
+British AirwaysOperado por BA Euroflyer,1.306 €,22 h 10 min,1 escala,20:45,17:55+1,ida y vuelta,2023-04-22T21:37:45.458835
+British Airways,1.328 €,19 h 40 min,1 escala,17:20,12:00+1,ida y vuelta,2023-04-22T21:37:45.458835
+British Airways,1.328 €,17 h 5 min,1 escala,19:55,12:00+1,ida y vuelta,2023-04-22T21:37:45.458835
+British Airways,1.328 €,16 h 15 min,1 escala,20:45,12:00+1,ida y vuelta,2023-04-22T21:37:45.458835
+British Airways,1.328 €,21 h 35 min,1 escala,20:45,17:20+1,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British AirwaysOperado por Iberia Express,BA Euroflyer",1.450 €,12 h 45 min,2 escalas,7:30,19:15,ida y vuelta,2023-04-22T21:37:45.458835
+"Iberia,British AirwaysOperado por Iberia Express,BA Euroflyer,BA Euroflyer",1.470 €,13 h 10 min,2 escalas,7:05,19:15,ida y vuelta,2023-04-22T21:37:45.458835
+Ryanair,50 €,2 h 50 min,Directo,7:05,8:55,ida y vuelta,2023-04-22T21:38:15.257757
+Iberia Express,94 €,2 h 45 min,Directo,19:50,21:35,ida y vuelta,2023-04-22T21:38:15.257757
+IberiaOperado por Iberia Express,119 €,2 h 45 min,Directo,19:50,21:35,ida y vuelta,2023-04-22T21:38:15.257757
+Iberia Express,129 €,2 h 50 min,Directo,11:25,13:15,ida y vuelta,2023-04-22T21:38:15.257757
+IberiaOperado por Iberia Express,156 €,2 h 50 min,Directo,11:25,13:15,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",176 €,5 h 45 min,1 escala,7:30,12:15,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",176 €,8 h 10 min,1 escala,7:30,14:40,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",176 €,6 h 15 min,1 escala,9:25,14:40,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",188 €,17 h 15 min,1 escala,22:45,15:00+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",189 €,23 h 15 min,1 escala,14:00,12:15+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",189 €,25 h 40 min,1 escala,14:00,14:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",189 €,22 h 35 min,1 escala,14:40,12:15+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",189 €,25 h,1 escala,14:40,14:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",191 €,16 h 55 min,2 escalas,22:45,14:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",191 €,22 h 55 min,2 escalas,22:45,20:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",192 €,22 h 55 min,2 escalas,22:45,20:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",194 €,15 h 15 min,1 escala,22:00,12:15+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",195 €,17 h 40 min,1 escala,22:00,14:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",195 €,23 h 40 min,1 escala,22:00,20:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",197 €,18 h,2 escalas,22:00,15:00+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",197 €,18 h,2 escalas,22:00,15:00+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",197 €,18 h,2 escalas,22:00,15:00+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",209 €,25 h 10 min,1 escala,14:50,15:00+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",212 €,7 h 55 min,2 escalas,7:45,14:40,ida y vuelta,2023-04-22T21:38:15.257757
+"Iberia,Binter CanariasOperado por Iberia Express",216 €,27 h 35 min,1 escala,12:25,15:00+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",292 €,25 h 35 min,1 escala,7:05,7:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",304 €,27 h 55 min,1 escala,7:05,10:00+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",433 €,11 h 35 min,1 escala,7:05,17:40,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",433 €,12 h 40 min,1 escala,20:00,7:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",434 €,17 h 35 min,1 escala,15:05,7:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",473 €,11 h 35 min,2 escalas,7:05,17:40,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",473 €,21 h,2 escalas,11:40,7:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",473 €,17 h 40 min,2 escalas,15:00,7:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",485 €,20 h,2 escalas,15:00,10:00+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",499 €,10 h 5 min,1 escala,7:05,16:10,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",499 €,5 h 30 min,1 escala,11:40,16:10,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",499 €,15 h,1 escala,20:00,10:00+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",500 €,19 h 55 min,1 escala,15:05,10:00+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",606 €,27 h 35 min,1 escala,15:00,17:35+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",606 €,27 h 35 min,1 escala,15:05,17:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Air Europa,canaryfly",606 €,22 h 40 min,1 escala,20:00,17:40+1,ida y vuelta,2023-04-22T21:38:15.257757
+VuelingIberia,1.260 €,21 h 50 min,1 escala,22:35,19:25+1,ida y vuelta,2023-04-22T21:38:15.257757
+VuelingIberia,1.300 €,34 h 55 min,1 escala,9:30,19:25+1,ida y vuelta,2023-04-22T21:38:15.257757
+VuelingIberia,1.300 €,30 h 45 min,1 escala,13:40,19:25+1,ida y vuelta,2023-04-22T21:38:15.257757
+VuelingIberia,1.320 €,25 h 55 min,1 escala,18:30,19:25+1,ida y vuelta,2023-04-22T21:38:15.257757
+"Lufthansa,Air Dolomiti,Luxair",4.178 €,11 h 45 min,2 escalas,6:10,16:55,ida y vuelta,2023-04-22T21:38:15.257757
+"Lufthansa,Edelweiss AirSWISS",4.228 €,11 h 45 min,2 escalas,6:10,16:55,ida y vuelta,2023-04-22T21:38:15.257757
+"Lufthansa,Edelweiss AirSWISS",4.269 €,10 h 40 min,2 escalas,7:15,16:55,ida y vuelta,2023-04-22T21:38:15.257757
+Ryanair,27 €,1 h 15 min,Directo,13:50,15:05,ida y vuelta,2023-04-22T21:38:45.795408
+Ryanair,27 €,1 h 15 min,Directo,23:00,0:15+1,ida y vuelta,2023-04-22T21:38:45.795408
+Iberia,77 €,1 h 15 min,Directo,7:20,8:35,ida y vuelta,2023-04-22T21:38:45.795408
+Iberia,115 €,1 h 10 min,Directo,19:50,21:00,ida y vuelta,2023-04-22T21:38:45.795408
+Iberia,166 €,1 h 15 min,Directo,15:50,17:05,ida y vuelta,2023-04-22T21:38:45.795408
+IberiaOperado por Air Nostrum for Iberia,217 €,10 h 50 min,1 escala,7:25,18:15,ida y vuelta,2023-04-22T21:38:45.795408
+IberiaOperado por Air Nostrum for Iberia,261 €,35 h 50 min,1 escala,7:25,19:15+1,ida y vuelta,2023-04-22T21:38:45.795408
+IberiaOperado por Air Nostrum for Iberia,266 €,21 h 5 min,1 escala,22:10,19:15+1,ida y vuelta,2023-04-22T21:38:45.795408
+IberiaOperado por Air Nostrum for Iberia,276 €,6 h 30 min,1 escala,11:45,18:15,ida y vuelta,2023-04-22T21:38:45.795408
+IberiaOperado por Air Nostrum for Iberia,284 €,27 h 20 min,1 escala,15:55,19:15+1,ida y vuelta,2023-04-22T21:38:45.795408
+VuelingIberia,298 €,4 h 40 min,1 escala,13:40,18:20,ida y vuelta,2023-04-22T21:38:45.795408
+IberiaOperado por Air Nostrum for Iberia,320 €,31 h 30 min,1 escala,11:45,19:15+1,ida y vuelta,2023-04-22T21:38:45.795408
+IberiaOperado por Air Nostrum for Iberia,320 €,25 h 30 min,1 escala,17:45,19:15+1,ida y vuelta,2023-04-22T21:38:45.795408
+VuelingIberia,328 €,8 h 50 min,1 escala,9:30,18:20,ida y vuelta,2023-04-22T21:38:45.795408
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",350 €,21 h,2 escalas,22:15,19:15+1,ida y vuelta,2023-04-22T21:38:45.795408
+VuelingIberia,358 €,9 h 25 min,1 escala,13:40,23:05,ida y vuelta,2023-04-22T21:38:45.795408
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",368 €,27 h 30 min,2 escalas,15:45,19:15+1,ida y vuelta,2023-04-22T21:38:45.795408
+VuelingIberia,368 €,4 h 35 min,1 escala,18:30,23:05,ida y vuelta,2023-04-22T21:38:45.795408
+IberiaOperado por Air Nostrum for Iberia,370 €,23 h 30 min,1 escala,19:45,19:15+1,ida y vuelta,2023-04-22T21:38:45.795408
+VuelingIberia,388 €,13 h 35 min,1 escala,9:30,23:05,ida y vuelta,2023-04-22T21:38:45.795408
+VuelingIberia,463 €,12 h 25 min,1 escala,22:35,11:00+1,ida y vuelta,2023-04-22T21:38:45.795408
+"Iberia,VuelingOperado por Iberia Express",466 €,12 h 10 min,1 escala,22:45,10:55+1,ida y vuelta,2023-04-22T21:38:45.795408
+"Iberia,VuelingOperado por Iberia Express",508 €,23 h 30 min,1 escala,11:25,10:55+1,ida y vuelta,2023-04-22T21:38:45.795408
+"Iberia,Vueling",714 €,27 h,1 escala,14:35,17:35+1,ida y vuelta,2023-04-22T21:38:45.795408
+"Iberia,Vueling",714 €,21 h 30 min,1 escala,20:05,17:35+1,ida y vuelta,2023-04-22T21:38:45.795408
+"Iberia,Vueling",725 €,25 h 5 min,1 escala,16:30,17:35+1,ida y vuelta,2023-04-22T21:38:45.795408
+VuelingIberia,729 €,19 h 45 min,1 escala,22:35,18:20+1,ida y vuelta,2023-04-22T21:38:45.795408
+VuelingIberia,729 €,24 h 30 min,1 escala,22:35,23:05+1,ida y vuelta,2023-04-22T21:38:45.795408
+VuelingIberia,746 €,23 h 50 min,1 escala,18:30,18:20+1,ida y vuelta,2023-04-22T21:38:45.795408
+Aer Lingus,798 €,29 h 35 min,1 escala,10:40,16:15+1,ida y vuelta,2023-04-22T21:38:45.795408
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",908 €,27 h 5 min,2 escalas,7:55,11:00+1,ida y vuelta,2023-04-22T21:38:45.795408
+VuelingIberia,1.019 €,21 h 20 min,1 escala,13:40,11:00+1,ida y vuelta,2023-04-22T21:38:45.795408
+VuelingIberia,1.031 €,16 h 30 min,1 escala,18:30,11:00+1,ida y vuelta,2023-04-22T21:38:45.795408
+"Iberia,Aer LingusOperado por Iberia Express",1.566 €,23 h 25 min,1 escala,16:50,16:15+1,ida y vuelta,2023-04-22T21:38:45.795408
+Ryanair,45 €,1 h 35 min,Directo,20:10,21:45,ida y vuelta,2023-04-22T21:39:15.976927
+Ryanair,57 €,1 h 35 min,Directo,13:00,14:35,ida y vuelta,2023-04-22T21:39:15.976927
+Iberia ExpressIberia,170 €,1 h 25 min,Directo,18:15,19:40,ida y vuelta,2023-04-22T21:39:15.976927
+"Iberia Express,IberiaOperado por Air Nostrum for Iberia",152 €,15 h 55 min,1 escala,7:05,23:00,ida y vuelta,2023-04-22T21:39:15.976927
+Billetes separados que se han reservado juntos,162 €,"Iberia Express,Swiftair",MAD–MAH,7:05,10:45,ida y vuelta,2023-04-22T21:39:15.976927
+Billetes separados que se han reservado juntos,165 €,"Air Europa,Vueling",MAD–MAH,6:40,12:20,ida y vuelta,2023-04-22T21:39:15.976927
+"Iberia Express,IberiaOperado por Air Nostrum for Iberia",172 €,7 h 35 min,1 escala,7:05,14:40,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",172 €,9 h 10 min,1 escala,22:40,7:50+1,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",173 €,14 h 40 min,1 escala,22:40,13:20+1,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",173 €,16 h,1 escala,22:40,14:40+1,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",173 €,17 h 25 min,1 escala,22:40,16:05+1,ida y vuelta,2023-04-22T21:39:15.976927
+Vueling,173 €,12 h 45 min,1 escala,9:30,22:15,ida y vuelta,2023-04-22T21:39:15.976927
+Vueling,178 €,8 h 35 min,1 escala,13:40,22:15,ida y vuelta,2023-04-22T21:39:15.976927
+Vueling,178 €,3 h 45 min,1 escala,18:30,22:15,ida y vuelta,2023-04-22T21:39:15.976927
+Billetes separados que se han reservado juntos,184 €,easyJet,MAD–MAH,16:10,21:40,ida y vuelta,2023-04-22T21:39:15.976927
+Vueling,188 €,13 h 30 min,1 escala,18:30,8:00+1,ida y vuelta,2023-04-22T21:39:15.976927
+VuelingIberia,188 €,9 h 25 min,1 escala,22:35,8:00+1,ida y vuelta,2023-04-22T21:39:15.976927
+Vueling,188 €,11 h 25 min,1 escala,22:35,10:00+1,ida y vuelta,2023-04-22T21:39:15.976927
+Billetes separados que se han reservado juntos,189 €,Vueling,MAD–MAH,13:40,18:00,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",195 €,3 h 20 min,1 escala,19:40,23:00,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",195 €,12 h 10 min,1 escala,19:40,7:50+1,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",196 €,17 h 40 min,1 escala,19:40,13:20+1,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",196 €,19 h,1 escala,19:40,14:40+1,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",196 €,15 h 35 min,1 escala,23:00,14:35+1,ida y vuelta,2023-04-22T21:39:15.976927
+Vueling,203 €,8 h 30 min,1 escala,9:30,18:00,ida y vuelta,2023-04-22T21:39:15.976927
+Billetes separados que se han reservado juntos,206 €,Vueling,MAD–MAH,9:30,13:25,ida y vuelta,2023-04-22T21:39:15.976927
+Billetes separados que se han reservado juntos,212 €,"Air Europa,Vueling",MAD–MAH,7:30,13:25,ida y vuelta,2023-04-22T21:39:15.976927
+Billetes separados que se han reservado juntos,213 €,Iberia,MAD–MAH,18:15,19:40,ida y vuelta,2023-04-22T21:39:15.976927
+Billetes separados que se han reservado juntos,215 €,"Iberia Express,Iberia",MAD–MAH,7:05,11:45,ida y vuelta,2023-04-22T21:39:15.976927
+"Iberia Express,IberiaOperado por Air Nostrum for Iberia",222 €,6 h 15 min,1 escala,7:05,13:20,ida y vuelta,2023-04-22T21:39:15.976927
+"Iberia Express,IberiaOperado por Air Nostrum for Iberia",222 €,9 h 5 min,1 escala,7:05,16:10,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",222 €,7 h 20 min,1 escala,15:40,23:00,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",223 €,14 h 20 min,1 escala,7:25,21:45,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",223 €,16 h 10 min,1 escala,15:40,7:50+1,ida y vuelta,2023-04-22T21:39:15.976927
+Vueling,223 €,10 h 35 min,1 escala,9:30,20:05,ida y vuelta,2023-04-22T21:39:15.976927
+Vueling,228 €,6 h 25 min,1 escala,13:40,20:05,ida y vuelta,2023-04-22T21:39:15.976927
+Iberia,236 €,1 h 25 min,Directo,11:05,12:30,ida y vuelta,2023-04-22T21:39:15.976927
+"Iberia Express,IberiaOperado por Air Nostrum for Iberia",252 €,12 h 5 min,1 escala,7:05,19:10,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",252 €,3 h 30 min,1 escala,15:40,19:10,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",252 €,13 h 10 min,1 escala,22:40,11:50+1,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",253 €,16 h 10 min,1 escala,19:40,11:50+1,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",292 €,10 h 10 min,1 escala,11:35,21:45,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",346 €,6 h 40 min,1 escala,7:55,14:35,ida y vuelta,2023-04-22T21:39:15.976927
+"Air Europa,Swiftair",451 €,13 h,1 escala,21:45,10:45+1,ida y vuelta,2023-04-22T21:39:15.976927
+"Air Europa,SwiftairOperado por Air Europa Express",452 €,15 h 45 min,1 escala,19:00,10:45+1,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",465 €,13 h 30 min,1 escala,19:40,9:10+1,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",465 €,10 h 30 min,1 escala,22:40,9:10+1,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",548 €,5 h 40 min,1 escala,15:40,21:20,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",635 €,3 h 5 min,1 escala,15:40,18:45,ida y vuelta,2023-04-22T21:39:15.976927
+"IberiaOperado por Iberia Express,Air Nostrum for Iberia",636 €,19 h 35 min,1 escala,22:40,18:15+1,ida y vuelta,2023-04-22T21:39:15.976927
+Iberia Express,73 €,1 h 10 min,Directo,7:20,8:30,ida y vuelta,2023-04-22T21:39:52.496278
+IberiaOperado por Iberia Express,89 €,1 h 10 min,Directo,7:20,8:30,ida y vuelta,2023-04-22T21:39:52.496278
+Iberia Express,95 €,1 h 10 min,Directo,19:45,20:55,ida y vuelta,2023-04-22T21:39:52.496278
+IberiaOperado por Iberia Express,115 €,1 h 10 min,Directo,19:45,20:55,ida y vuelta,2023-04-22T21:39:52.496278
+Iberia Express,177 €,1 h 10 min,Directo,16:00,17:10,ida y vuelta,2023-04-22T21:39:52.496278
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",191 €,7 h 5 min,1 escala,7:55,15:00,ida y vuelta,2023-04-22T21:39:52.496278
+IberiaOperado por Iberia Express,194 €,1 h 10 min,Directo,16:00,17:10,ida y vuelta,2023-04-22T21:39:52.496278
+"IberiaOperado por Air Nostrum for Iberia,Air Nostrum for Iberia",195 €,23 h 35 min,1 escala,23:00,22:35+1,ida y vuelta,2023-04-22T21:39:52.496278
+VuelingIberia,228 €,12 h 15 min,1 escala,22:35,10:50+1,ida y vuelta,2023-04-22T21:39:52.496278
+VuelingIberia,238 €,14 h 50 min,1 escala,22:35,13:25+1,ida y vuelta,2023-04-22T21:39:52.496278
+Iberia Express,248 €,1 h 10 min,Directo,11:40,12:50,ida y vuelta,2023-04-22T21:39:52.496278
+VuelingIberia,248 €,5 h 40 min,1 escala,16:30,22:10,ida y vuelta,2023-04-22T21:39:52.496278
+IberiaOperado por Iberia Express,269 €,1 h 10 min,Directo,11:40,12:50,ida y vuelta,2023-04-22T21:39:52.496278
+"Iberia,VuelingOperado por Iberia Express",319 €,13 h 15 min,1 escala,22:45,12:00+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Portugalia Airlines,338 €,6 h 35 min,1 escala,17:55,0:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+"Tap Air PortugalOperado por Bulgaria Air,Portugalia Airlines",359 €,4 h 20 min,1 escala,20:10,0:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Portugalia Airlines,359 €,11 h 15 min,1 escala,22:15,9:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Xfly,364 €,26 h 15 min,1 escala,22:15,0:30+2,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Portugalia Airlines,391 €,16 h 50 min,1 escala,7:40,0:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Portugalia Airlines,391 €,15 h 35 min,1 escala,17:55,9:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+"Tap Air PortugalOperado por Bulgaria Air,Portugalia Airlines",391 €,13 h 20 min,1 escala,20:10,9:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Portugalia Airlines,394 €,25 h 50 min,1 escala,7:40,9:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+"Iberia,VuelingOperado por Iberia Express",403 €,18 h 45 min,1 escala,22:45,17:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+"Iberia,VuelingOperado por Iberia Express",403 €,24 h 55 min,1 escala,22:45,23:40+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Portugalia Airlines,440 €,13 h 25 min,1 escala,11:05,0:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Portugalia Airlines,440 €,8 h 10 min,1 escala,16:20,0:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Portugalia Airlines,443 €,22 h 25 min,1 escala,11:05,9:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+"IberiaOperado por Mel Air for Airnostrum as Iberia,Mel Air for Airnostrum as Iberia",489 €,23 h 10 min,1 escala,16:55,16:05+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Portugalia Airlines,490 €,10 h 55 min,1 escala,13:35,0:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Portugalia Airlines,490 €,19 h 55 min,1 escala,13:35,9:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Portugalia Airlines,490 €,17 h 10 min,1 escala,16:20,9:30+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Xfly,490 €,17 h 20 min,1 escala,22:15,15:35+1,ida y vuelta,2023-04-22T21:39:52.496278
+"Tap Air PortugalOperado por Bulgaria Air,Xfly",537 €,19 h 25 min,1 escala,20:10,15:35+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Xfly,540 €,26 h,1 escala,13:35,15:35+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Xfly,540 €,23 h 15 min,1 escala,16:20,15:35+1,ida y vuelta,2023-04-22T21:39:52.496278
+Tap Air PortugalOperado por Xfly,540 €,21 h 40 min,1 escala,17:55,15:35+1,ida y vuelta,2023-04-22T21:39:52.496278
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",627 €,12 h 30 min,2 escalas,9:40,22:10,ida y vuelta,2023-04-22T21:39:52.496278
+"Iberia,Vueling",652 €,9 h,1 escala,14:35,23:35,ida y vuelta,2023-04-22T21:39:52.496278
+"Iberia,VuelingOperado por Air Nostrum for Iberia,Mel Air for Airnostrum as Iberia",660 €,8 h 10 min,2 escalas,9:40,17:50,ida y vuelta,2023-04-22T21:39:52.496278
+"Iberia,Vueling",677 €,16 h 30 min,1 escala,20:05,12:35+1,ida y vuelta,2023-04-22T21:39:52.496278
+VuelingIberia,689 €,18 h 45 min,1 escala,22:35,17:20+1,ida y vuelta,2023-04-22T21:39:52.496278
+VuelingIberia,703 €,20 h 45 min,1 escala,22:35,19:20+1,ida y vuelta,2023-04-22T21:39:52.496278
+VuelingIberia,703 €,23 h 35 min,1 escala,22:35,22:10+1,ida y vuelta,2023-04-22T21:39:52.496278
+VuelingIberia,737 €,18 h 20 min,1 escala,16:30,10:50+1,ida y vuelta,2023-04-22T21:39:52.496278
+"Iberia,Vueling",737 €,12 h,1 escala,11:35,23:35,ida y vuelta,2023-04-22T21:39:52.496278
+VuelingIberia,747 €,20 h 55 min,1 escala,16:30,13:25+1,ida y vuelta,2023-04-22T21:39:52.496278
+"Iberia,Vueling",783 €,13 h 50 min,1 escala,9:45,23:35,ida y vuelta,2023-04-22T21:39:52.496278
+British Airways,804 €,20 h 40 min,1 escala,20:45,17:25+1,ida y vuelta,2023-04-22T21:39:52.496278
+"Iberia,Vueling",819 €,16 h 5 min,1 escala,7:30,23:35,ida y vuelta,2023-04-22T21:39:52.496278
+Lufthansa,974 €,29 h 10 min,1 escala,7:15,12:25+1,ida y vuelta,2023-04-22T21:39:52.496278
+Lufthansa,974 €,24 h 30 min,1 escala,11:55,12:25+1,ida y vuelta,2023-04-22T21:39:52.496278
+Lufthansa,974 €,21 h 10 min,1 escala,15:15,12:25+1,ida y vuelta,2023-04-22T21:39:52.496278
+Lufthansa,4.190 €,23 h 25 min,1 escala,13:00,12:25+1,ida y vuelta,2023-04-22T21:39:52.496278
+Air FranceOperado por HOP!,Precio no disponible,10 h 40 min,1 escala,6:10,16:50,No disponible,2023-04-22T21:39:52.496278
+"Air FranceOperado por HOP!,HOP!",Precio no disponible,6 h 45 min,1 escala,10:05,16:50,No disponible,2023-04-22T21:39:52.496278
+Iberia Express,108 €,3 h 10 min,Directo,11:25,13:35,ida y vuelta,2023-04-22T21:40:25.653913
+IberiaOperado por Iberia Express,122 €,3 h 10 min,Directo,11:25,13:35,ida y vuelta,2023-04-22T21:40:25.653913
+"Iberia,Binter CanariasOperado por Iberia Express",161 €,18 h 55 min,1 escala,23:55,17:50+1,ida y vuelta,2023-04-22T21:40:25.653913
+Iberia Express,164 €,3 h 10 min,Directo,14:35,16:45,ida y vuelta,2023-04-22T21:40:25.653913
+IberiaOperado por Iberia Express,181 €,3 h 10 min,Directo,14:35,16:45,ida y vuelta,2023-04-22T21:40:25.653913
+"Iberia,Binter CanariasOperado por Iberia Express",172 €,11 h 20 min,1 escala,7:30,17:50,ida y vuelta,2023-04-22T21:40:25.653913
+"Iberia,Binter CanariasOperado por Iberia Express",176 €,11 h 15 min,2 escalas,7:35,17:50,ida y vuelta,2023-04-22T21:40:25.653913
+"Iberia,Binter CanariasOperado por Iberia Express",176 €,11 h 15 min,2 escalas,7:35,17:50,ida y vuelta,2023-04-22T21:40:25.653913
+"Iberia,Binter CanariasOperado por Iberia Express",176 €,11 h 15 min,2 escalas,7:35,17:50,ida y vuelta,2023-04-22T21:40:25.653913
+"Iberia,Binter CanariasOperado por Iberia Express",224 €,9 h 25 min,1 escala,9:25,17:50,ida y vuelta,2023-04-22T21:40:25.653913
+"Iberia,Binter CanariasOperado por Iberia Express",228 €,20 h 5 min,2 escalas,22:45,17:50+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Iberia,Binter CanariasOperado por Iberia Express",229 €,20 h 5 min,2 escalas,22:45,17:50+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Iberia,Binter CanariasOperado por Iberia Express",229 €,20 h 5 min,2 escalas,22:45,17:50+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Iberia,Binter CanariasOperado por Iberia Express",243 €,6 h 55 min,1 escala,11:55,17:50,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",341 €,22 h 25 min,1 escala,15:05,12:30+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",361 €,26 h 10 min,1 escala,7:05,8:15+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",361 €,21 h 35 min,1 escala,11:40,8:15+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",372 €,28 h 10 min,1 escala,7:05,10:15+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",372 €,23 h 35 min,1 escala,11:40,10:15+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",372 €,33 h 5 min,1 escala,11:40,19:45+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",376 €,21 h 55 min,2 escalas,15:35,12:30+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",376 €,21 h 55 min,2 escalas,15:35,12:30+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",441 €,17 h 30 min,1 escala,20:00,12:30+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",456 €,14 h 15 min,1 escala,19:00,8:15+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",457 €,18 h 15 min,1 escala,15:00,8:15+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",457 €,23 h 30 min,1 escala,19:00,17:30+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",463 €,20 h 15 min,1 escala,15:00,10:15+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",463 €,27 h 30 min,1 escala,15:00,17:30+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",463 €,25 h 45 min,1 escala,19:00,19:45+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",484 €,29 h 45 min,1 escala,15:00,19:45+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",496 €,6 h 25 min,1 escala,7:05,12:30,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",523 €,16 h 15 min,1 escala,19:00,10:15+1,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",628 €,11 h 25 min,1 escala,7:05,17:30,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",628 €,13 h 55 min,1 escala,7:05,20:00,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",628 €,6 h 50 min,1 escala,11:40,17:30,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",628 €,9 h 20 min,1 escala,11:40,20:00,ida y vuelta,2023-04-22T21:40:25.653913
+"Air Europa,canaryfly",628 €,6 h,1 escala,15:00,20:00,ida y vuelta,2023-04-22T21:40:25.653913
+VuelingIberia,979 €,21 h 50 min,1 escala,22:35,19:25+1,ida y vuelta,2023-04-22T21:40:25.653913
+VuelingIberia,1.019 €,26 h,1 escala,18:25,19:25+1,ida y vuelta,2023-04-22T21:40:25.653913
