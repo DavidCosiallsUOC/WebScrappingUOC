@@ -11,6 +11,5 @@ if __name__=="__main__":
     for dest in destinos:
         if dest in aeropuertos:
             busqueda = 'vuelos madrid '+aeropuertos[dest].replace('Airport','')
-            print(busqueda)
             dataset = dataset.append(search_flights(busqueda),ignore_index=True)
     dataset.to_csv('./dataset/flights.csv',index=False)
