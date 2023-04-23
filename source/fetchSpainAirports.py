@@ -71,71 +71,17 @@ for row in trow:
     rowIndex += 1
 # Print the thead and tbody as HTML strings
 
-JSONvector = []
-
-for aiport in AirportsVector:
-    data = {
-        "location": aiport.location,
-        "IATA": aiport.IATA
-    }
-    JSONvector.append(data)
 
 
-with open("spainTable.json", "w") as f:
-    json.dump(JSONvector, f)
+lengthVector = len(AirportsVector)
 
-# Define the search query
+string = ""
 
-# for airport in AirportsVector:
-#     #query = airport.IATA + " coordinates"
-#     query = airport.IATA+ " airport coordinates"
-#     url = f"https://www.google.es/search?q={query}"
+data = {airport.IATA: airport.location + " aeropuerto" for airport in AirportsVector}
 
-#     # Set the user agent to simulate a real user
-#     headers = {
-#         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
-#         "Cookie": "CONSENT=YES+ES.es+V16+BX"
-#     }
+print (string)
 
-#     # Send the GET request to the URL and get the HTML response
-#     response = requests.get(url, headers=headers, cookies={})
-#     soup = BeautifulSoup(response.content, "html.parser")
-#     file = open("google.html", "w")
-#     file.write(str(soup))
-#     # Find the knowledge graph section and extract the coordinates
-#     divs = soup.find_all("div")
-#     coordinates_div = soup.find("div", {"class": "Z0LcW"})
-#     if coordinates_div:
-#         coordinates = coordinates_div.text
-#         print(f"The coordinates of MAD airport are {coordinates}")
-#     else:
-#         print("Coordinates not found in knowledge graph")
-    
+with open("./source/spainTable.json", "w", encoding ='latin-1') as f:
+    json.dump(data, f)
 
-#     time.sleep(15)
 
-origin = "BCN"
-destination = "MAD"
-
-originYear = "2023"
-originMonth = "04"
-originDay = "23"
-originDate = originYear+"-"+originMonth+"-"+originDay
-
-destinationYear = "2023"
-destinationMonth = "05"
-destinationDay = "27"
-destinationDate = destinationYear+"-"+destinationMonth+"-"+destinationDay
-
-flightClass = "economy"
-numberAdults = "1"
-
-url = "https://vuelos-baratos.rastreator.com/?utm_source=rastreator&utm_medium=affiliate&utm_term=rev&utm_campaign=whitelabel&utm_content=CMSVuelos/#/flights/ABC-MAD/2023-04-23/2023-05-27/economy/1adults"
-
-rastreatorUrl = "https://vuelos-baratos.rastreator.com/?utm_source=rastreator&utm_medium=affiliate&utm_term=rev&utm_campaign=whitelabel&utm_content=CMSVuelos/#/flights/{origin}-{destination}/{originDate}/{destinationDate}/{flightClass}/{numberAdults}adults"
-
-response = requests.get(url)
-soup = BeautifulSoup(response.content, 'html.parser')
-
-rastreatorFile = open("rastreator.html", "w")
-rastreatorFile.write(str(soup))
