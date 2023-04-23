@@ -12,15 +12,15 @@ from bs4 import BeautifulSoup
 #plt.use('Agg')
 
 class Airports: 
-    def __init__(self, location, IATA):
-        self.location = location
+    def __init__(self, sobrenombre, IATA):
+        self.sobrenombre = sobrenombre
         self.IATA = IATA
     
     def getIATA():
         return self.IATA
     
-    def getLocation():
-        return self.location
+    def getSobrenombre():
+        return self.sobrenombre
 
 url = "https://es.wikipedia.org/wiki/Anexo:Aeropuertos_de_España"
 response = requests.get(url)
@@ -38,7 +38,7 @@ rowIndex = 0
 header_elements = []
 AirportsVector = []
 IATAindex = 0
-LocationIndex = 0
+SobrenombreIndex = 0
 for row in trow:
     # HEADER
     if rowIndex == 0:
@@ -52,22 +52,20 @@ for row in trow:
                 # FIND FOR IATA INDEX
                 if titleText.strip() == "IATA":
                     IATAindex = count
-                # FIND FOR LOCATION INDEX
-                if titleText.strip() == "Localización":
-                    LocationIndex = count
+                # FIND FOR SOBRENOMBRE INDEX
+                if titleText.strip() == "Sobrenombre":
+                    SobrenombreIndex = count
                 count += 1
     else:
         tds = row.find_all('td')
         IATA_element = ""
-        Location_element = ""
+        sobrenombre_element = ""
         if len(tds) > IATAindex + 1:
-            #IATA_elements.append(tds[IATAindex].getText().strip()) 
             IATA_element = tds[IATAindex].getText().strip()
-        if len(tds) > LocationIndex + 1:
-            #Location_elements.append(tds[LocationIndex].getText().strip()) 
-            Location_element = tds[LocationIndex].getText().strip()
-        if IATA_element != "" and Location_element != "":
-            AirportsVector.append(Airports(location=Location_element, IATA=IATA_element))
+        if len(tds) > SobrenombreIndex + 1:
+            sobrenombre_element = tds[SobrenombreIndex].getText().strip()
+        if IATA_element != "" and sobrenombre_element != "":
+            AirportsVector.append(Airports(sobrenombre=sobrenombre_element, IATA=IATA_element))
     rowIndex += 1
 # Print the thead and tbody as HTML strings
 
@@ -77,11 +75,11 @@ lengthVector = len(AirportsVector)
 
 string = ""
 
-data = {airport.IATA: airport.location + " aeropuerto" for airport in AirportsVector}
+data = {airport.IATA: airport.sobrenombre + " airport" for airport in AirportsVector}
 
-print (string)
+print (data)
 
-with open("./source/spainTable.json", "w", encoding ='latin-1') as f:
-    json.dump(data, f)
+with open("./source/spainTable.json", "w", encoding ='utf-8') as f:
+    json.dump(data, f, ensure_ascii= True )
 
 
