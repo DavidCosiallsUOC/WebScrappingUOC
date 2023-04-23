@@ -15,7 +15,18 @@ def search_flights(search:str):
     driver = webdriver.Chrome(executable_path=r"./source/chromedrive_win32/chromedriver.exe",options=options)
     driver.get("https://www.google.com/search?q="+search)
     wait = WebDriverWait(driver, 10)
-    accept_cookies_button = wait.until(EC.element_to_be_clickable((By.XPATH, '//div[contains(text(),"Aceptar todo")]/ancestor::button')))
+
+    lang = driver.find_element(by=By.XPATH, value='//html')
+    lang = lang.get_attribute('lang')
+    if lang == 'es':
+        accept_cookies_button = wait.until(EC.element_to_be_clickable((By.XPATH, '//div[contains(text(),"Aceptar todo")]/ancestor::button')))
+    elif lang=='en':
+        accept_cookies_button = wait.until(EC.element_to_be_clickable((By.XPATH, '//div[contains(text(),"Accept all")]/ancestor::button')))
+    elif lang=='ca':
+        accept_cookies_button = wait.until(EC.element_to_be_clickable((By.XPATH, '//div[contains(text(),"Accepta-ho tot")]/ancestor::button')))
+    else:
+        raise Exception("Language not supported")
+
     accept_cookies_button.click()
 
     flight_btn = driver.find_element(by=By.XPATH, value='//g-more-link')
