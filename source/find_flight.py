@@ -20,7 +20,7 @@ def search_flights(search:str):
     lang = lang.get_attribute('lang')
     if lang == 'es':
         accept_cookies_button = wait.until(EC.element_to_be_clickable((By.XPATH, '//div[contains(text(),"Aceptar todo")]/ancestor::button')))
-    elif lang=='en':
+    elif lang=='en-ES':
         accept_cookies_button = wait.until(EC.element_to_be_clickable((By.XPATH, '//div[contains(text(),"Accept all")]/ancestor::button')))
     elif lang=='ca':
         accept_cookies_button = wait.until(EC.element_to_be_clickable((By.XPATH, '//div[contains(text(),"Accepta-ho tot")]/ancestor::button')))

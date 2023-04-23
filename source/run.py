@@ -2,6 +2,7 @@ import pandas as pd
 from find_flight import search_flights
 from fetchWeb import fetch_airlines
 from json import load
+import os
 
 if __name__=="__main__":
     destinos = fetch_airlines()
@@ -12,4 +13,8 @@ if __name__=="__main__":
         if dest in aeropuertos:
             busqueda = 'vuelos madrid '+aeropuertos[dest].replace('Airport','')
             dataset = dataset.append(search_flights(busqueda),ignore_index=True)
-    dataset.to_csv('./dataset/flights.csv',index=False)
+    if not os.path.isfile('./dataset/flights.csv'):
+        dataset.to_csv('./dataset/flights.csv',index=False)
+    else: 
+        dataset.to_csv('./dataset/flights.csv',mode='a',header=False,index=False)
+        
