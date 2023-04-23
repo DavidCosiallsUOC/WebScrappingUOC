@@ -77,11 +77,11 @@ lengthVector = len(AirportsVector)
 
 string = ""
 
-data = {airport.IATA: airport.location + " aeropuerto" for airport in AirportsVector}
+data = {airport.IATA: airport.location + "aeropuerto" for airport in AirportsVector}
 
 print (string)
 
-with open("./source/spainTable.json", "w", encoding ='latin-1') as f:
-    json.dump(data, f)
+with open("./source/spainTable.json", "wb") as f:
+    f.write(json.dumps(data,ensure_ascii=False).encode('utf-8'))
 
 
