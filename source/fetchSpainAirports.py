@@ -16,70 +16,72 @@ class Airports:
         self.sobrenombre = sobrenombre
         self.IATA = IATA
     
-    def getIATA():
+    def getIATA(self,):
         return self.IATA
     
-    def getSobrenombre():
+    def getSobrenombre(self,):
         return self.sobrenombre
 
-url = "https://es.wikipedia.org/wiki/Anexo:Aeropuertos_de_España"
-response = requests.get(url)
-soup = BeautifulSoup(response.content, 'html.parser')
+def get_airports():
+    url = "https://es.wikipedia.org/wiki/Anexo:Aeropuertos_de_España"
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, 'html.parser')
 
-# Find the second table on the page (index 1)
-table_index = 1
-table = soup.find_all('table')[table_index]
+    # Find the second table on the page (index 1)
+    table_index = 1
+    table = soup.find_all('table')[table_index]
 
-# Extract the thead and tbody elements from the table
-trow = table.find_all('tr')
+    # Extract the thead and tbody elements from the table
+    trow = table.find_all('tr')
 
-col = []
-rowIndex = 0
-header_elements = []
-AirportsVector = []
-IATAindex = 0
-SobrenombreIndex = 0
-for row in trow:
-    # HEADER
-    if rowIndex == 0:
-        title_row = row.find_all('th')
-        count = 0
-        for title in title_row:
-            titleText = title.get_text()
-            if titleText != "\n":
-                print(titleText.strip())
-                header_elements.append(titleText.strip())
-                # FIND FOR IATA INDEX
-                if titleText.strip() == "IATA":
-                    IATAindex = count
-                # FIND FOR SOBRENOMBRE INDEX
-                if titleText.strip() == "Sobrenombre":
-                    SobrenombreIndex = count
-                count += 1
-    else:
-        tds = row.find_all('td')
-        IATA_element = ""
-        sobrenombre_element = ""
-        if len(tds) > IATAindex + 1:
-            IATA_element = tds[IATAindex].getText().strip()
-        if len(tds) > SobrenombreIndex + 1:
-            sobrenombre_element = tds[SobrenombreIndex].getText().strip()
-        if IATA_element != "" and sobrenombre_element != "":
-            AirportsVector.append(Airports(sobrenombre=sobrenombre_element, IATA=IATA_element))
-    rowIndex += 1
-# Print the thead and tbody as HTML strings
+    col = []
+    rowIndex = 0
+    header_elements = []
+    AirportsVector = []
+    IATAindex = 0
+    SobrenombreIndex = 0
+    for row in trow:
+        # HEADER
+        if rowIndex == 0:
+            title_row = row.find_all('th')
+            count = 0
+            for title in title_row:
+                titleText = title.get_text()
+                if titleText != "\n":
+                    print(titleText.strip())
+                    header_elements.append(titleText.strip())
+                    # FIND FOR IATA INDEX
+                    if titleText.strip() == "IATA":
+                        IATAindex = count
+                    # FIND FOR SOBRENOMBRE INDEX
+                    if titleText.strip() == "Sobrenombre":
+                        SobrenombreIndex = count
+                    count += 1
+        else:
+            tds = row.find_all('td')
+            IATA_element = ""
+            sobrenombre_element = ""
+            if len(tds) > IATAindex + 1:
+                IATA_element = tds[IATAindex].getText().strip()
+            if len(tds) > SobrenombreIndex + 1:
+                sobrenombre_element = tds[SobrenombreIndex].getText().strip()
+            if IATA_element != "" and sobrenombre_element != "":
+                AirportsVector.append(Airports(sobrenombre=sobrenombre_element, IATA=IATA_element))
+        rowIndex += 1
+    # Print the thead and tbody as HTML strings
 
 
 
-lengthVector = len(AirportsVector)
+    lengthVector = len(AirportsVector)
 
-string = ""
+    string = ""
 
-data = {airport.IATA: airport.sobrenombre + " airport" for airport in AirportsVector}
+    data = {airport.IATA: airport.sobrenombre for airport in AirportsVector}
 
-print (data)
+    print (data)
 
-with open("./source/spainTable.json", "wb") as f:
-    f.write(json.dumps(data,ensure_ascii=False).encode('utf-8'))
+    with open("./source/spainTable.json", "wb") as f:
+        f.write(json.dumps(data,ensure_ascii=False).encode('utf-8'))
+    return data
 
 

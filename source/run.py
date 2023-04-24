@@ -1,14 +1,16 @@
 import pandas as pd
 from find_flight import search_flights
 from fetchWeb import fetch_airlines
+from fetchSpainAirports import get_airports
 from json import load
 import os
 
 if __name__=="__main__":
     destinos = fetch_airlines()
+    aeropuertos = get_airports()
     with open('./source/destinos_es.json',encoding='utf-8') as f:
         aeropuertos = load(f)
-    dataset = pd.DataFrame(columns=['airline', 'price', 'duration', 'stops', 'departure', 'arrival','returns','datetime'])
+    dataset = pd.DataFrame(columns=['airline', 'price', 'duration', 'stops', 'departure', 'arrival','returns','datetime','from','to'])
     for dest in destinos:
         if dest in aeropuertos:
             busqueda = 'vuelos madrid '+aeropuertos[dest].replace('Airport','')
@@ -17,4 +19,3 @@ if __name__=="__main__":
         dataset.to_csv('./dataset/flights.csv',index=False)
     else: 
         dataset.to_csv('./dataset/flights.csv',mode='a',header=False,index=False)
-        

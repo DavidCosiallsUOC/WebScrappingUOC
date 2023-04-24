@@ -22,7 +22,7 @@ def search_flights(search:str):
     lang = lang.get_attribute('lang')
     if lang == 'es':
         accept_cookies_button = wait.until(EC.element_to_be_clickable((By.XPATH, '//div[contains(text(),"Aceptar todo")]/ancestor::button')))
-    elif lang=='en-ES':
+    elif lang=='en-ES' or lang=='en':
         accept_cookies_button = wait.until(EC.element_to_be_clickable((By.XPATH, '//div[contains(text(),"Accept all")]/ancestor::button')))
     elif lang=='ca':
         accept_cookies_button = wait.until(EC.element_to_be_clickable((By.XPATH, '//div[contains(text(),"Accepta-ho tot")]/ancestor::button')))
@@ -42,9 +42,11 @@ def search_flights(search:str):
     time.sleep(10)
     flight_table = driver.find_elements(by=By.XPATH, value='//li')
     # Creamos un dataframe para almacenar los datos de los vuelos
-    dataset = pd.DataFrame(columns=['airline', 'price', 'duration', 'stops', 'departure', 'arrival','returns','datetime'])
+    dataset = pd.DataFrame(columns=['airline', 'price', 'duration', 'stops', 'departure', 'arrival','returns','datetime','from','to'])
     # Guardamos la fecha y hora de la búsqueda
     date = datetime.datetime.now().isoformat()
+    from_city = search.split(' ')[1]  
+    to_city =  ' '.join(search.split(' ')[2:])
     # Recorremos la lista de vuelos y extraemos los datos que nos interesan
     for flight in flight_table: 
         # Quitamos las recomendaciones de tren
@@ -66,7 +68,7 @@ def search_flights(search:str):
                         price = aux[-2]
                         returns = aux[-1]
                     # Añadimos los datos a nuestro dataframe
-                    dataset = dataset.append({'airline': airline, 'price': price, 'duration': duration, 'stops': stops, 'departure': departure, 'arrival': arrival,'returns':returns,'datetime':date},ignore_index=True)
+                    dataset = dataset.append({'airline': airline, 'price': price, 'duration': duration, 'stops': stops, 'departure': departure, 'arrival': arrival,'returns':returns,'datetime':date,'from':from_city,'to':to_city},ignore_index=True)
                 except Exception as e:
                     print(str(e))
                     print(aux)
