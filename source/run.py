@@ -8,8 +8,6 @@ import os
 if __name__=="__main__":
     destinos = fetch_airlines()
     aeropuertos = get_airports()
-    with open('./source/destinos_es.json',encoding='utf-8') as f:
-        aeropuertos = load(f)
     dataset = pd.DataFrame(columns=['airline', 'price', 'duration', 'stops', 'departure', 'arrival','returns','datetime','from','to'])
     for dest in destinos:
         if dest in aeropuertos:
