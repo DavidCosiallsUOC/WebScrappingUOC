@@ -17,6 +17,7 @@ En este proyecto nos podemos encontrar los siguientes archivos:
 
 - README.md: archivo README del repositorio
 - requirements.txt: especificación de las librerias y las versiones que se utilizan en el proyecto
+- Memoria.pdf: documento con la memoria de la práctica
 - /dataset: carpeta donde se encuentra el archvio .csv
 - /dataset/flights.csv: archivo .csv con los datos resultantes de la busqueda
 - /source: carpeta con el código
