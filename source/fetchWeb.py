@@ -2,6 +2,7 @@ import requests
 import json
 from bs4 import BeautifulSoup
 
+# CLASE PARA RELACIONAR LA AEROLINEA CON EL DESTINO
 class Airlines: 
     def __init__(self, airline, destinations):
         self.airline = airline
@@ -13,56 +14,51 @@ class Airlines:
     def getDestinations(self,):
         return self.destinations
 
+# BUSCAMOS LA AEROLÍNEAS QUE OPERAN EN EL AEROPUERTO DE MADRID-BARAJAS
 def fetch_airlines():
 
     url = "https://www.aena.es/es/adolfo-suarez-madrid-barajas/aerolineas-y-destinos/aerolineas.html"
     response = requests.get(url)
-
-
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    # Find all article elements with role attribute set to "table"
+    # BUSCAMOS EL ELEMENTO "ARTICLE" YA QUE LA TABLA DESEADA ES EN REALIDAD ESTE ELEMENTO
     articles = soup.find_all('article', attrs={'role': 'table'})
 
-    # Create a list to store all the airlines
     airlines = []
-
-    # Define a list of words to remove from airline names and destinations
+    #DEFINIMOS AQUELLAS PALABRAS QUE NO QUEREMOS QUE SALGAN EN NUESTRA BASE DE DATOS
     unwanted_words = ['Compañía Aérea', 'Terminal', 'destinos', 'DETALLES', 'T1', 'T2', 'T3', 'T4', "CompañíaAerea:","-",":","  ","+"]
 
-    # Iterate over each article
     for article in articles:
-        # Find all the <li> elements within the article
+        # BUSCAMOS TODAS LAS FILAS DEL ARTICULO.
         lis = article.find_all('li')
-
-        # Extract the airline name from the first <li> element
+        #ELIMINAMOS TODOS LOS SEPARADORES, COMO TABULACIONES E INTROS PARA LAS AEROLÍNEAS. 
         airline_name = lis[0].text.strip().replace('\t', '').replace('\r', '').replace('\n', '')
-
-        # Remove unwanted words from the airline name
+        # ELIMINAMOS TODAS LAS PALABRAS INDESEADAS PARA LAS AEROLÍNEAS
         for word in unwanted_words:
             airline_name = airline_name.replace(word, '').strip()
 
-        # Extract the destinations from the remaining <li> elements
+        # ELIMINAR LOS SEPRADORES, COMO TABULACIONES E INTROS PARA LOS DESTINOS. 
         destinations = [li.text.strip().replace('\t', '').replace('\r', '').replace('\n', '') for li in lis[1:]]
-
-        # Remove unwanted words from the destinations
+        # ELIMINAMOS TODAS LAS PALABRAS INDESEADAS PARA LOS DESTINOS
         for i, destination in enumerate(destinations):
             for word in unwanted_words:
                 destinations[i] = destinations[i].replace(word, '').strip()
 
-        # Add the airline and its destinations to the list of airlines
+        #AÑADIMOS LOS DATOS QUE NOS INTERSAN DENTRO DEL VECTOR
         airlines.append({
             'airline': airline_name,
             'destinations': destinations
         })
 
-    # Format the response
+    # FORMATEAMOS LA RESPUESTA QUE NOS LLEGA
     formatted_response = ""
     response = []
     inDestinos = False
     airlineTMP = ""
     destinosTMP = []
     airlinesVector = []
+
+    # BUSCAMOS POR AEROLINEA
     for airline in airlines:
         for destination in airline['destinations']:
             if destination != '' and destination != "Destinos":
@@ -72,6 +68,7 @@ def fetch_airlines():
                 else:
                     inDestinos = False
                     if airlineTMP != "" and len(destinosTMP) > 0:
+                        # GUARDAMOS LOS ELEMENTOS QUE HEMOS ENCONTRADO EN UN VECTOR
                         airlinesVector.append(Airlines(airlineTMP, destinosTMP))
                         destinosTMP = []
                         airlineTMP = ""
@@ -83,8 +80,11 @@ def fetch_airlines():
                         if len(split.split(")")) > 1:
                             destinosTMP.append(split.split(")")[0])
         
-        formatted_response += "\n".join([f"{destination}" for destination in airline['destinations']]) #ANALIZAR CADA LÍNEA
+        # CUANDO FINALIZAMOS EL RECORRIDO JUNTAMOS TODA LA RESPUESTA
+        formatted_response += "\n".join([f"{destination}" for destination in airline['destinations']])
 
+
+    # DEVOLVEMOS UN VECTOR CON LAS AEROLÍNEAS Y DESTINOS PARA SER USADO EN OTRA PARTE DEL PROGRAMA
     result = []
     for airline in airlinesVector:
         aux = set(result)
