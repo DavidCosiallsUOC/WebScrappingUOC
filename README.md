@@ -2,7 +2,8 @@
 
 ## Practica 1
 
-Este trabajo consiste en hacer un comparador de vuelos nacionales que salen el aeropuerto de Adolfo Suárez Madrid-Barajas 
+Este trabajo consiste en hacer un comparador de vuelos nacionales que salen el aeropuerto de Adolfo Suárez Madrid-Barajas.
+
 
 ## Integrantes
 

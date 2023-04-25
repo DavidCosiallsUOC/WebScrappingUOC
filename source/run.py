@@ -15,7 +15,7 @@ if __name__=="__main__":
     for dest in destinos:
         if dest in aeropuertos:
             #Genera la busqueda en google flights
-            busqueda = 'vuelos madrid '+aeropuertos[dest].replace('Airport','')
+            busqueda = 'vuelos madrid '+aeropuertos[dest].replace('Airport','').split('[')[0]
             dataset = dataset.append(search_flights(busqueda),ignore_index=True)
     #Si no esta creado el archivo lo crea, si no lo añade al final
     if not os.path.isfile('./dataset/flights.csv'):

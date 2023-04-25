@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 # Clase para tener relacionado el código IATA y el nombre del aeropuerto
 class Airports: 
     def __init__(self, nombre, IATA):
-        self.sobrenombre = sobrenombre
+        self.nombre = nombre
         self.IATA = IATA
     
     def getIATA(self,):
