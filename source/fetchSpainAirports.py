@@ -54,7 +54,7 @@ def get_airports():
                     if titleText.strip() == "IATA":
                         IATAindex = count
                     # FIND FOR SOBRENOMBRE INDEX
-                    if titleText.strip() == "Sobrenombre":
+                    if titleText.strip() == "Aeropuertos públicos":
                         SobrenombreIndex = count
                     count += 1
         else:
